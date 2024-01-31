@@ -1,0 +1,1505 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9lrvqt0h"]
+[Date "????.??.??"]
+[Round "?"]
+[White "BVS"]
+[Black "HLD"]
+[Result "1-0"]
+
+1. Nf3 d5 2. c4 d4 3. b4 a6 4. Bb2 Nc6 5. a3 e5 6. d3 f6 7. g3 Nh6 8. Bg2
+Bd6 9. c5 Be7 10. Qb3 b6 11. Nxe5 Nxe5 12. Bxa8 bxc5 13. bxc5 Bxc5 14. Bg2
+Qd6 15. Nd2 Be6 16. Qb8+ Qd8 17. Qxd8+ Kxd8 18. O-O Ke7 19. Ne4 Bb6 20. a4
+a5 21. Ba3+ Kf7 22. Rfc1 Rd8 23. Rab1 Bg4 24. Kf1 Bh5 25. h3 Bg6 26. f4 Nd7
+27. g4 Bxe4 28. Bxe4 g6 29. Rb5 Ke6 30. Bd5# 1-0
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/dwoy9g0a"]
+[Date "????.??.??"]
+[Round "?"]
+[White "899"]
+[Black "qbot"]
+[Result "0-1"]
+
+1. g3 c6 2. Bg2 d5 3. b3 Nf6 4. Bb2 Bf5 5. d3 e6 6. e4 dxe4 7. dxe4 Bxe4 8.
+Bxe4 Nxe4 9. Qxd8+ Kxd8 10. f3 Nf6 11. Nd2 Bb4 12. O-O-O Kc7 13. Nc4 Na6
+14. c3 Be7 15. b4 Rad8 16. Ne5 Rxd1+ 17. Kxd1 Rf8 18. Ne2 Bd6 19. Nc4 Nb8
+20. Kc2 Nbd7 21. Rd1 Be7 22. Nf4 Nb6 23. Ne5 Nbd5 24. Nxd5+ cxd5 25. c4 Nd7
+26. Nxd7 Kxd7 27. cxd5 exd5 28. Rxd5+ Kc6 29. Bxg7 Rc8 30. Rd3 Kb5+ 31. Kd2
+Bxb4+ 32. Ke2 Rc2+ 33. Ke3 Rxa2 34. Rb3 Rxh2 35. Bc3 a5 36. Kd4 Rh3 37. Ke4
+Rxg3 38. Kf4 Rg6 39. Kf5 Rc6 40. Bd4 Rc4 41. Be3 Rc3 42. Rxc3 Bxc3 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/yu7apsko"]
+[Date "????.??.??"]
+[Round "?"]
+[White "HLD"]
+[Black "BVS"]
+[Result "1-0"]
+
+1. e4 c6 2. Bc4 d5 3. exd5 cxd5 4. Bb3 e5 5. Nc3 Nf6 6. d3 Be6 7. h3 Nc6 8.
+Bg5 Be7 9. Nf3 O-O 10. O-O Na5 11. Nxe5 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/lwa5l8zc"]
+[Date "????.??.??"]
+[Round "?"]
+[White "HLD"]
+[Black "donChisciotte"]
+[Result "1-0"]
+
+1. e4 Nf6 2. Nc3 e5 3. f4 Bc5 4. fxe5 Nxe4 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/b7f2wbes"]
+[Date "????.??.??"]
+[Round "?"]
+[White "vaacshes"]
+[Black "Voltvolf"]
+[Result "0-1"]
+
+1. e4 Nf6 2. e5 Nd5 3. Qf3 e6 4. c4 Ne7 5. Nc3 Ng6 6. d4 d6 7. exd6 Bxd6 8.
+Bd3 O-O 9. Nge2 c5 10. dxc5 Bxc5 11. O-O Ne5 12. Qh3 Nxd3 13. Rd1 e5 14.
+Rxd3 Bxh3 15. Rxd8 Rxd8 16. gxh3 Nc6 17. Bg5 f6 18. Bh4 Nd4 19. Kg2 Nxe2
+20. Nxe2 Rd2 21. Ng3 Rxb2 22. Ne4 Bd4 23. Rc1 h6 24. c5 Kf7 25. Nd6+ Ke6
+26. Kf3 g5 27. Bg3 b6 28. Nc4 Bxc5 29. Nxb2 Ba3 30. Rc2 Rd8 31. Nc4 Bc5 32.
+h4 Rd4 33. hxg5 hxg5 34. Kg2 e4 35. Ne3 f5 36. Nc4 f4 37. Ne3 fxe3 38. fxe3
+Rd3 39. Bf2 a5 40. h4 gxh4 41. Bxh4 Rxe3 42. Bg5 Rd3 43. Re2 Kf5 44. Bh6
+Kg4 45. Bg7 e3 46. Be5 Rd2 47. Kf1 Kf3 48. Rxd2 exd2 0-1
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/nc3oy3q0"]
+[Date "????.??.??"]
+[Round "?"]
+[White "troepianiz"]
+[Black "Armada"]
+[Result "1-0"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d5 4. Bb5 Bd6 5. Qf3 Nf6 6. Nc3 e4 7. Qe2 Bg4 8.
+f3 exf3 9. gxf3 Bh5 10. O-O-O O-O 11. Qg2 d4 12. Bxc6 dxc3 13. Bxc3 bxc6
+14. e4 Ba3+ 15. Kb1 Rb8 16. Nh3 Bb4 17. Bb2 a5 18. Rhg1 Bg6 19. Nf4 Bc5 20.
+d4 Bb6 21. h4 c5 22. h5 cxd4 23. hxg6 fxg6 24. Ne6 Qd6 25. Nxf8 Rxf8 26.
+Qg3 Qxg3 27. Rxg3 Nh5 28. Rh3 c5 29. c3 Nf4 30. Rhh1 d3 31. Bc1 Ne2 32.
+Rxd3 Nxc1 33. Kxc1 Bc7 34. Rf1 Bf4+ 35. Kc2 Rc8 36. Rd5 h5 37. e5 h4 38. e6
+h3 39. e7 h2 40. Rd8+ 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/qqpcz568"]
+[Date "????.??.??"]
+[Round "?"]
+[White "CKOT"]
+[Black "vaacshes"]
+[Result "0-1"]
+
+1. d4 f5 2. Nf3 Nf6 3. Bf4 e6 4. e3 Be7 5. Bd3 b6 6. a3 Bb7 7. c4 Nc6 8.
+O-O d6 9. b4 O-O 10. h3 Ne4 11. Bxe4 fxe4 12. Nh2 e5 13. Bg3 exd4 14. exd4
+Bf6 15. Ra2 Nxd4 16. Nd2 Nf5 17. Ng4 Nxg3 18. fxg3 Bd4+ 19. Kh1 e3 20. Nf3
+Bf6 21. Nxe3 Qe7 22. Nd5 Qf7 23. Raf2 Bxd5 24. cxd5 Qh5 25. Qb3 a5 26. bxa5
+Rxa5 27. Nh4 Qxd5 28. Qc2 Rxa3 29. Qxc7 Rxg3 30. Nf3 b5 31. Rd2 Qh5 32.
+Rxd6 Be5 33. Nxe5 Rxf1+ 34. Kh2 Rxg2+ 35. Kxg2 Qe2+ 36. Kg3 Qxe5+ 37. Kg2
+Qe2+ 38. Kg3 Rf3+ 39. Kh4 Qe4+ 40. Kg5 Rf5# 0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/4t00lnx0"]
+[Date "????.??.??"]
+[Round "?"]
+[White "mataLionTower"]
+[Black "Xhosa"]
+[Result "1-0"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 g6 4. Nc3 c6 5. e3 Bg7 6. Be2 e6 7. O-O O-O 8.
+Qc2 Re8 9. Re1 Qc7 10. Bd2 Nbd7 11. c5 Re7 12. b4 b6 13. b5 bxc5 14. dxc5
+e5 15. Rab1 e4 16. Nd4 cxb5 17. Ndxb5 Qd8 18. Na4 Ne5 19. Bc3 Nc6 20. Bxf6
+Bxf6 21. Nd6 Be5 22. Nc3 Bxd6 23. cxd6 Qxd6 24. Nb5 Qd7 25. Nd4 a5 26. Bb5
+Bb7 27. Nxc6 Bxc6 28. Bxc6 Qc7 29. Qc5 1-0
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/0dhuy3d6"]
+[Date "????.??.??"]
+[Round "?"]
+[White "pronik"]
+[Black "rashit49"]
+[Result "1-0"]
+
+1. d4 Nf6 2. Nf3 d5 3. c3 Bg4 4. Nbd2 Bxf3 5. Nxf3 e6 6. e3 Bd6 7. Bd3 O-O
+8. O-O a6 9. Ne5 b5 10. f4 h6 11. a3 c5 12. Bd2 cxd4 13. exd4 Nc6 14. Qf3
+Ne7 15. g4 Bxe5 16. fxe5 Nh7 17. h4 Ng6 18. h5 Nh4 19. Qh3 Ng5 20. Qg3 Ne4
+21. Bxe4 dxe4 22. Bf4 f5 23. g5 Nf3+ 24. Rxf3 exf3 25. gxh6 Rf7 26. Qxf3
+Kh8 27. hxg7+ Rxg7+ 28. Kf2 Rg4 29. Rh1 a5 30. h6 b4 31. h7 bxa3 32. bxa3
+Ra7 33. Rh6 Qe7 34. Ke3 Qxa3 35. Kd3 Qe7 36. Rf6 a4 37. Bc1 a3 38. Qc6 Rg3+
+39. Ke2 Kxh7 40. Rxe6 Qf7 41. Rh6+ Kg7 42. Rh4 Rg6 43. Bh6+ Kh7 44. Bg5+
+Kg7 45. Bf6+ Rxf6 46. exf6+ Qxf6 47. Rh7+ Kxh7 48. Qxf6 a2 49. Qxf5+ Kh6
+50. Qh3+ Kg5 51. Qg2+ Kf6 52. Qf1+ Ke6 53. Qa1 Kd5 54. Kd3 Ra3 55. Kc2 Ra4
+56. Kb3 Ra8 57. Qxa2 Rxa2 58. Kxa2 Kc4 59. Kb2 1-0
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/avdnypz4"]
+[Date "????.??.??"]
+[Round "?"]
+[White "nichiren1967"]
+[Black "Shura"]
+[Result "1-0"]
+
+1. e4 c5 2. f4 Nc6 3. Nf3 g6 4. Bc4 Bg7 5. Ng5 e6 6. d3 h6 7. Nxf7 Kxf7 8.
+f5 Na5 9. fxg6+ Kxg6 10. O-O Nxc4 11. dxc4 Nf6 12. e5 Ne8 13. Qd3+ Kh5 14.
+g4+ Kxg4 15. Qg3+ Kh5 16. Nc3 Qg5 17. Bxg5 1-0
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/t92414lu"]
+[Date "????.??.??"]
+[Round "?"]
+[White "argo"]
+[Black "Shura"]
+[Result "1-0"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Nxc6 bxc6 7. Bc4 d6
+8. O-O Nf6 9. f3 O-O 10. Ne2 Rb8 11. Kh1 Bb7 12. Bb3 c5 13. Bg5 a5 14. Qc1
+Qd7 15. Bh6 a4 16. Bxg7 Kxg7 17. Bc4 e6 18. b3 d5 19. exd5 exd5 20. Bd3 d4
+21. c4 Qc7 22. Qg5 Nd7 23. Nf4 1-0
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/agg5l4ql"]
+[Date "????.??.??"]
+[Round "?"]
+[White "nichiren1967"]
+[Black "Thiago"]
+[Result "0-1"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 exf4 4. h4 Be7 5. d3 g5 6. hxg5 Bxg5 7. c3 d6 8.
+d4 Bg4 9. Nbd2 Nce7 10. Qe2 Ng6 11. Qf2 f5 12. exf5 Bxf5 13. Nxg5 Qxg5 14.
+Nc4 O-O-O 15. Bxf4 Re8+ 16. Kd2 Nxf4 17. Ne3 Nd5 18. Re1 Nxe3 19. Rxe3 Rxe3
+20. Qxe3 Qxe3+ 21. Kxe3 Nf6 22. Rh6 Ng4+ 23. Kf4 Nxh6 24. g4 Bxg4 0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/y6u45ns3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "argo"]
+[Black "Thiago"]
+[Result "1-0"]
+
+1. e4 d6 2. Nf3 g6 3. Nc3 Bg7 4. d4 Nd7 5. Bd3 c6 6. O-O Qc7 7. e5 dxe5 8.
+dxe5 Nxe5 9. Nxe5 Bxe5 10. Re1 Bxh2+ 11. Kh1 Nf6 12. g3 Bxg3 13. fxg3 Qxg3
+14. Qe2 Ng4 15. Qxe7# 1-0
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/9iqmgy4q"]
+[Date "????.??.??"]
+[Round "?"]
+[White "argo"]
+[Black "Thiago"]
+[Result "1-0"]
+
+1. e4 d6 2. Nf3 g6 3. Nc3 Bg7 4. d4 Nc6 5. Bd3 e6 6. O-O Nce7 7. e5 dxe5 8.
+dxe5 Nc6 9. Ne4 Nxe5 10. Nxe5 Bxe5 11. f4 Bg7 12. Kh1 Qe7 13. Ng5 Nf6 14.
+Be3 O-O 15. Bd4 c6 16. Be5 Nd5 17. Qg4 Bxe5 18. fxe5 f6 19. exf6 Rxf6 20.
+Rxf6 Qxf6 21. Qh4 Qg7 22. Rf1 Nf6 23. Rxf6 Qxf6 24. Qxh7+ Kf8 25. h3 Qf1+
+26. Kh2 Qf6 27. Bxg6 Qg7 28. Nxe6+ Ke7 29. Qxg7+ Kxe6 30. Qf7+ Ke5 31. Qe8+
+Be6 32. Qxa8 Bd5 33. Qxb7 1-0
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/2gp6jfgp"]
+[Date "????.??.??"]
+[Round "?"]
+[White "argo"]
+[Black "Thiago"]
+[Result "0-1"]
+
+1. e4 d6 2. Nf3 g6 3. Nc3 Bg7 4. d4 Nc6 5. Be3 e6 6. e5 dxe5 7. dxe5 Qxd1+
+8. Rxd1 Nxe5 9. Nxe5 Bxe5 10. Bd3 Bxc3+ 11. bxc3 Bd7 12. O-O O-O-O 13. Bxa7
+Ne7 14. Rb1 Nc6 15. Bc5 f5 16. a4 e5 17. a5 e4 0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/v77rcq20"]
+[Date "????.??.??"]
+[Round "?"]
+[White "nichiren1967"]
+[Black "Cliff_Burton"]
+[Result "0-1"]
+
+1. e4 d5 2. e5 e6 3. f4 Nc6 4. d3 h6 5. c3 g5 6. fxg5 hxg5 7. Nf3 f6 8.
+exf6 Nxf6 9. Qe2 Qe7 10. Nxg5 Bh6 11. Na3 Rg8 12. Nf3 Bxc1 13. Rxc1 Bd7 14.
+Rd1 O-O-O 15. Kd2 e5 16. Kc2 e4 17. dxe4 Qxe4+ 18. Qd3 Qxd3+ 19. Bxd3 Rde8
+20. g3 Ne5 21. Nxe5 Rxe5 22. Rde1 Rge8 23. Rxe5 Rxe5 24. Nb1 Ng4 25. Nd2
+Nf2 26. Rf1 Nxd3 27. Kxd3 Bf5+ 28. Kd4 Bh3 29. Rf2 Re7 30. Kxd5 Kd7 31. b3
+c6+ 32. Kd4 Kc7 33. c4 Kb6 34. b4 Rd7+ 35. Kc3 Be6 36. a4 a5 37. b5 cxb5
+38. cxb5 Rc7+ 39. Kb2 Bc4 40. h4 Be6 41. h5 Bg4 42. Rf6+ Ka7 43. h6 Rh7 44.
+Ne4 Bd1 45. Ka3 Re7 46. Ng5 Bc2 47. Rf7 Re3+ 48. Kb2 Bxa4 49. h7 Re8 50.
+Rg7 Rh8 51. Rg8 Rxh7 52. Nxh7 Bxb5 53. Nf6 Bc4 54. Rc8 Be6 55. Rc7 Kb6 56.
+Re7 Bf5 57. g4 Bg6 58. g5 Ka6 59. Rg7 Bf5 60. Ne8 b5 61. Nd6 Bd3 62. g6 a4
+0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/558ra85e"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Cliff_Burton"]
+[Black "nichiren1967"]
+[Result "0-1"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 d6 5. Qb3 Qe7 6. Nxc3 c6 7. Nf3 b5 8.
+Bd3 Nf6 9. O-O Qe6 10. Qc2 Be7 11. Bf4 O-O 12. e5 dxe5 13. Bxe5 Nbd7 14.
+Nd4 Qxe5 15. Rfe1 Qd6 16. Nf5 Qc5 17. Nxe7+ Kh8 18. Nxc8 b4 19. Ne4 Qxc2
+20. Bxc2 Raxc8 21. Rad1 Rcd8 22. Nxf6 Nxf6 23. Rxd8 Rxd8 24. Re7 Rd7 25.
+Rxd7 Nxd7 26. Kf1 c5 27. Ke2 Kg8 28. Kd3 Kf8 29. Kc4 Ke7 30. Bxh7 g6 31. f4
+Kf6 32. g4 Kg7 33. Bxg6 Kxg6 34. h4 Kf6 35. Kb5 Ke6 36. Kc6 f6 37. Kb7 c4
+38. Kxa7 c3 39. bxc3 bxc3 40. h5 c2 41. h6 Nf8 42. h7 Nxh7 0-1
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/g5yo9pwr"]
+[Date "????.??.??"]
+[Round "?"]
+[White "jeh-1"]
+[Black "Batalj"]
+[Result "0-1"]
+
+1. d4 e6 2. Nf3 Ne7 3. e4 Ng6 4. a3 d6 5. c4 Nd7 6. Bd3 c5 7. d5 e5 8. O-O
+Be7 9. h3 O-O 10. Nc3 a6 11. Be3 Nb6 12. Qb1 Bd7 13. a4 a5 14. Nb5 f6 15.
+Nd2 Rf7 16. f4 exf4 17. Bxf4 Ne5 18. Nf3 Nexc4 19. Bxc4 Nxc4 20. b3 Ne5 21.
+Rf2 Bxb5 22. axb5 b6 23. Qb2 Qd7 24. Qe2 Raf8 25. Nd2 f5 26. Raf1 g6 27.
+Bh6 Bh4 28. Rf4 Bg3 29. Bxf8 Bxf4 30. Nc4 Nxc4 31. bxc4 Bg5 32. exf5 Kxf8
+33. Qe6 Be3+ 34. Kh1 Qxe6 35. dxe6 Rxf5 36. Re1 Re5 37. g4 Rxe6 38. Kg2 Re5
+39. Kf3 Bd4 40. Rf1 Ke7 41. Kg3 Re3+ 42. Kh4 Bf6+ 43. g5 Re4+ 44. Kg3 Bxg5
+0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/93sp1ef3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "staric"]
+[Black "Alex"]
+[Result "0-1"]
+
+1. e4 g6 2. Nf3 Bg7 3. d4 d6 4. Nc3 c6 5. Be3 a6 6. Be2 b5 7. Qd2 Nf6 8. e5
+Ng4 9. O-O-O Nxe3 10. Qxe3 b4 11. Na4 a5 12. d5 c5 13. Bb5+ Bd7 14. Bxd7+
+Nxd7 15. exd6 Ne5 16. Nxe5 Qxd6 17. f4 h5 18. Nxc5 Rc8 19. Nb7 Qc7 20. Nc6
+Qxb7 21. d6 Rxc6 22. d7+ Kd8 23. Rhe1 e6 24. Qg3 a4 25. Qh4+ f6 26. Qh3 b3
+27. axb3 axb3 28. c3 Qa6 29. Qd3 Qxd3 30. Rxd3 e5 31. fxe5 fxe5 32. Kd2 Re6
+33. c4 e4 34. Rde3 Bh6 35. c5 Bxe3+ 36. Rxe3 Kxd7 37. Rxb3 Rc8 38. Rc3 Re5
+39. b4 Kc6 40. Ke3 Kb5 41. Kd4 Ree8 42. Rc4 Rcd8+ 43. Kc3 Rd3+ 44. Kc2 Kxc4
+45. c6 Kxb4 46. c7 Rc3+ 47. Kd2 Rxc7 48. Ke3 Rc3+ 49. Kf4 e3 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kytzb9ui"]
+[Date "????.??.??"]
+[Round "?"]
+[White "marram"]
+[Black "Lain"]
+[Result "0-1"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Bd2 c6 6. Bd3 Bg4 7. f3 Bh5
+8. Nge2 Nbd7 9. Ne4 Qc7 10. N4g3 Bg6 11. Bxg6 hxg6 12. c3 Nh5 13. Qc2 Nxg3
+14. Nxg3 Qxg3+ 15. hxg3 Rxh1+ 16. Kf2 Rxa1 17. a3 Rh1 18. Qb3 O-O-O 19. Qa4
+Kb8 20. Bf4+ Ka8 21. Be3 Nb6 22. Qa5 Rd5 23. Qb4 Rb5 0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ci4jj0bm"]
+[Date "????.??.??"]
+[Round "?"]
+[White "donChisciotte"]
+[Black "Thiago"]
+[Result "0-1"]
+
+1. Nc3 d6 2. d4 g6 3. e4 Bg7 4. Be3 Nf6 5. Bd3 O-O 6. f3 Nfd7 7. Nge2 c5 8.
+dxc5 dxc5 9. O-O Nc6 10. Na4 b6 11. Nac3 Qc7 12. Qd2 Nf6 13. Bf4 e5 14. Bg3
+Nd4 15. Nxd4 cxd4 16. Nd5 Nxd5 17. exd5 Qd6 18. Be4 Ba6 19. Rfe1 Rac8 20.
+c3 dxc3 21. Qxc3 f5 22. Qa3 Qxa3 23. bxa3 fxe4 24. fxe4 Bd3 25. Re3 Bc4 26.
+Rc3 Bb5 27. Rac1 Rxc3 28. Rxc3 Bf6 29. Rc7 a6 30. Rb7 Bd8 31. Bxe5 Rf1# 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bllmxwnm"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alex"]
+[Black "staric"]
+[Result "1/2-1/2"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. d4 Nc6 5. Be3 Qb6 6. b3 a5 7. c3 cxd4 8.
+Bxd4 Nxd4 9. Qxd4 Bc5 10. Qd2 Ne7 11. Nd4 O-O 12. Bd3 g6 13. O-O Bd7 14.
+Qe2 Rac8 15. Bb5 Nc6 16. Nxc6 bxc6 17. Ba4 Be7 18. Nd2 Rfd8 19. c4 d4 20.
+Ne4 c5 21. Bxd7 Rxd7 22. Qd3 Qd8 23. g3 f5 24. exf6 Bxf6 25. Nxf6+ Qxf6 26.
+f4 Re8 27. Rae1 Qg7 28. Re5 Qe7 29. Rfe1 Qd6 30. Qd2 d3 31. g4 Qd4+ 32. Kf1
+Rf7 33. f5 Qxg4 34. Qxd3 Qxf5+ 35. Qxf5 Rxf5+ 36. Rxf5 gxf5 37. Kf2 Kf7 38.
+Kf3 Kf6 39. Kf4 e5+ 40. Kf3 e4+ 41. Kf4 Rg8 42. h3 Rg5 43. Rd1 Rh5 44. Rd6+
+Ke7 45. Rd5 Ke6 46. Re5+ Kf6 47. Rxc5 e3 48. Re5 Rxh3 49. Rxf5+ Ke6 50.
+Re5+ Kd6 51. Rxe3 Rxe3 52. Kxe3 Kc5 53. a3 a4 54. bxa4 Kxc4 55. a5 Kb5 56.
+a6 Kxa6 57. Kf4 Ka5 58. Kg5 Ka4 59. Kh6 Kxa3 60. Kxh7 1/2-1/2
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/d68jmfyj"]
+[Date "????.??.??"]
+[Round "?"]
+[White "rashit49"]
+[Black "pronik"]
+[Result "0-1"]
+
+1. e4 d6 2. Nf3 e6 3. Bc4 c6 4. O-O Nd7 5. d4 Be7 6. Nc3 b5 7. Bb3 b4 8.
+Na4 Ngf6 9. e5 Nd5 10. Bxd5 cxd5 11. b3 O-O 12. h3 dxe5 13. dxe5 Ba6 14.
+Re1 Bb5 15. Nb2 a5 16. Nd3 Nc5 17. a4 Ba6 18. Nf4 Ne4 19. Be3 Nc3 20. Qd4
+Qc8 21. Nd3 Ne4 22. Bc1 h6 23. Nh2 Qc3 24. Bb2 Qxc2 25. f3 Bxd3 26. fxe4
+Bxe4 27. Rac1 Qxg2# 0-1
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/ckr63pa1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Batalj"]
+[Black "jeh-1"]
+[Result "1-0"]
+
+1. e4 c5 2. Ne2 Nc6 3. Nbc3 Nf6 4. Ng3 e6 5. d3 h6 6. Be2 d5 7. O-O d4 8.
+Nb1 Bd6 9. Nd2 Bxg3 10. fxg3 O-O 11. a4 a6 12. Nc4 b6 13. e5 Nd7 14. Bf4
+Bb7 15. Bf3 b5 16. axb5 axb5 17. Nd6 Rxa1 18. Qxa1 Qc7 19. Nxb5 Qb8 20.
+Bxc6 Bxc6 21. Nd6 f6 22. exf6 Rxf6 23. Nf5 Qb7 24. Ne7+ Kh7 25. Nxc6 Qxc6
+26. Qe1 Qd5 27. Qe4+ Qxe4 28. dxe4 e5 29. Bd2 Rb6 30. b3 Nf6 31. Re1 Rc6
+32. c3 c4 33. bxc4 Rxc4 34. cxd4 exd4 35. e5 Ne8 36. h4 Kg6 37. Bf4 Kf5 38.
+Kf2 g5 39. hxg5 hxg5 40. Bd2 g4 41. e6 Kf6 42. Bf4 Rc2+ 43. Kg1 d3 44. Rd1
+Rc3 45. Re1 Rc6 46. e7 Rb6 47. Rd1 Rb3 48. Re1 Kf7 49. Kf2 Rb2+ 50. Ke3 Rb3
+51. Bg5 d2+ 52. Kxd2 Rc3 53. Bh4 Rxg3 54. Bxg3 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/9w2h0i59"]
+[Date "????.??.??"]
+[Round "?"]
+[White "staric"]
+[Black "Alex"]
+[Result "0-1"]
+
+1. e4 g6 2. Nf3 Bg7 3. d4 d5 4. e5 Nc6 5. Bf4 f6 6. Bb5 fxe5 7. dxe5 e6 8.
+Nc3 Bd7 9. Nd4 Nxe5 10. Bxd7+ Qxd7 11. Qe2 O-O-O 12. Bxe5 Bxe5 13. Qxe5 Nh6
+14. O-O-O Rhe8 15. Ncb5 Kb8 16. Qe3 Nf5 17. Nxf5 exf5 18. Qb3 a6 19. Nd4 c5
+20. Ne2 Rxe2 21. Qg3+ Ka8 22. Rhe1 Rxe1 23. Rxe1 d4 24. Qg5 c4 25. Re7 Qd6
+26. Rxh7 d3 27. cxd3 Qxd3 28. Qg4 fxg4 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/s6c2t0q1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alex"]
+[Black "staric"]
+[Result "1-0"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 c5 5. Bb5+ Nc6 6. Bxc6+ bxc6 7. dxc5
+Bxc5 8. O-O Qb6 9. Re1+ Ne7 10. Be3 Be6 11. Bxc5 Qxc5 12. Nc3 Rd8 13. Na4
+Qb5 14. b3 O-O 15. Nd4 Qb8 16. Nxe6 fxe6 17. Rxe6 Qf4 18. f3 Ng6 19. Re1
+Ne5 20. Nc5 Qg5 21. Kh1 Qe7 22. Nd3 Nxd3 23. Rxe7 Nf2+ 24. Kg1 Nxd1 25.
+Rxd1 Rfe8 26. Rxa7 Re2 27. c4 d4 28. Kf1 d3 29. Rxd3 Rf2+ 30. Kxf2 Rxd3 31.
+Ke2 Rd6 1-0
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/dix7ijce"]
+[Date "????.??.??"]
+[Round "?"]
+[White "rashit49"]
+[Black "pronik"]
+[Result "0-1"]
+
+1. e4 d6 2. Nc3 c6 3. Bc4 e6 4. Nf3 Nd7 5. O-O Be7 6. d4 b5 7. Bb3 b4 8.
+Na4 Ngf6 9. Re1 e5 10. c3 O-O 11. Bg5 Qc7 12. cxb4 h6 13. Bh4 Ba6 14. dxe5
+Nxe5 15. Nxe5 dxe5 16. Qf3 Rae8 17. Nc5 Bc8 18. h3 Nh7 19. Bxe7 Rxe7 20. a3
+Ng5 21. Qg3 Kh7 22. Rad1 a5 23. h4 Ne6 24. Nd3 Nd4 25. Ba2 f6 26. Nc5 axb4
+27. axb4 Qb6 28. Nd3 Ba6 29. Bb1 Bxd3 30. Bxd3 Qxb4 31. f4 Qc5 32. Kh2 Ne6
+33. f5 Nf4 34. Bf1 Qb4 35. b3 Qc5 36. Bc4 Qb4 37. Rf1 Qb8 38. Qg4 h5 39.
+Qg3 g5 40. hxg5 fxg5 41. Qxg5 Rg7 42. Qh4 Rxg2+ 43. Kh1 Rg4 44. Qh2 Kh6 45.
+Rg1 Rxg1+ 46. Rxg1 Qa7 47. Qg3 Qe7 48. Be6 Qf6 49. Qe3 Qh4+ 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/q7bs1pn1"]
+[Date "????.??.??"]
+[Round "?"]
+[White "staric"]
+[Black "Alex"]
+[Result "0-1"]
+
+1. e4 g6 2. Nf3 Bg7 3. d4 b6 4. Be3 Bb7 5. Bd3 e6 6. Nc3 Ne7 7. Qd2 a5 8.
+O-O-O a4 9. Kb1 a3 10. b3 Ba6 11. e5 Bxd3 12. Qxd3 Nbc6 13. Bg5 h6 14. Bf6
+Bxf6 15. exf6 Nf5 16. Ne4 Ncxd4 17. Nxd4 Nxd4 18. Qxd4 d5 19. g4 dxe4 20.
+Qxe4 Qxf6 21. Qxa8+ Ke7 22. Qxh8 Qxh8 23. Kc1 Qb2+ 24. Kd2 Qd4+ 25. Ke1
+Qe4+ 26. Kd2 Qxg4 27. Rhe1 Qd4+ 28. Kc1 Qb2+ 29. Kd2 c5 30. Re3 b5 31. Rd3
+c4 32. Rc3 cxb3 33. Rxb3 Qxa2 34. Rdb1 b4 35. Rxb4 Qd5+ 36. Kc3 a2 37. Ra1
+Qa5 38. Kb3 Qd5+ 39. Kb2 Qe5+ 40. Kxa2 Qc3 41. Rab1 Qxc2+ 42. R1b2 Qd3 43.
+Rb7+ Kf6 44. R7b3 Qd5 45. Ka3 Qa5# 0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/uz2k7pd5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Thiago"]
+[Black "nichiren1967"]
+[Result "0-1"]
+
+1. e4 e5 2. d3 d6 3. Nc3 f5 4. Be3 f4 5. Bd2 Nf6 6. Nf3 h6 7. Be2 g5 8. O-O
+Be6 9. h3 Nbd7 10. Nh2 Qe7 11. Bg4 h5 12. Bxe6 Qxe6 13. Qe2 O-O-O 14. a4 g4
+15. hxg4 hxg4 16. d4 exd4 17. Nd5 g3 18. fxg3 fxg3 19. Nf3 Nxd5 20. Qc4 Qg4
+21. exd5 Qh5 22. Nh4 Qxh4 23. Qxc7+ Kxc7 24. Ba5+ Kb8 25. Rf4 Qh1# 0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/iodx0rat"]
+[Date "????.??.??"]
+[Round "?"]
+[White "nichiren1967"]
+[Black "Thiago"]
+[Result "0-1"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 exf4 4. h4 Qe7 5. d3 d5 6. e5 Nxe5 7. Qe2 Nxf3+
+8. gxf3 Qxe2+ 9. Bxe2 Bd6 10. O-O Bh3 11. Rf2 Nf6 12. Rh2 Bf5 13. Nc3 c5
+14. Nb5 Be5 15. c3 a6 16. d4 cxd4 17. cxd4 Bb8 18. Nc3 O-O 19. h5 b5 20. h6
+g6 21. b3 Ba7 22. Bb2 Bxd4+ 23. Kg2 Rae8 24. Kf1 Be3 25. Rd1 d4 26. Nb1 Bc2
+0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ga1ngvjg"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Alex"]
+[Black "staric"]
+[Result "0-1"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. d4 Nc6 5. Bb5 Qb6 6. Bxc6+ bxc6 7. Be3 Ba6
+8. b3 cxd4 9. Bxd4 c5 10. Bb2 d4 11. c4 Ne7 12. O-O Nf5 13. Nbd2 Be7 14.
+Ne4 O-O 15. Nfg5 f6 16. exf6 Bxf6 17. Qh5 Bxg5 18. Nxg5 h6 19. Ne4 Bb7 20.
+Nd2 Qc6 21. Qh3 e5 22. Rae1 Nh4 23. f3 Ng6 24. Ne4 Nf4 25. Qg3 Nd3 26. Rb1
+Nxb2 27. Rxb2 Rae8 28. Rbf2 Re6 29. Nd2 Rg6 30. Qxe5 Bc8 31. Ne4 d3 32.
+Qxc5 Qxc5 33. Nxc5 a5 34. Nxd3 Bf5 35. Ne5 Re6 36. f4 g5 37. g4 Bh7 38. Nd7
+Rf7 39. Ne5 Rxf4 40. Nd7 Rxg4+ 41. Kh1 Be4+ 42. Rf3 Rf4 43. Kg2 g4 44. Kg3
+Rxf3+ 45. Rxf3 gxf3 46. Kf2 Kf7 47. Nc5 Re5 0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/2xll860m"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Thiago"]
+[Black "Pen-Pen"]
+[Result "0-1"]
+
+1. e4 e6 2. d3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nc3 Bb4 6. Be3 O-O 7. Nf3 Nd5
+8. Be2 Nxc3 9. bxc3 Bxc3+ 10. Bd2 Bxa1 11. Qxa1 Nc6 12. O-O b6 13. Bc3 f6
+14. Nd4 Nxd4 15. Bxd4 e5 16. Bc3 Bb7 17. d4 exd4 18. Bxd4 Re8 19. Bc4+ Kh8
+20. Be3 b5 21. Bxb5 Qd5 22. f3 Qxb5 23. Bf2 Rad8 24. Qb1 Qxb1 25. Rxb1 Bd5
+26. h3 a5 27. Rb2 a4 28. Rb7 c6 29. Rb4 a3 30. Ra4 Ra8 31. Rb4 Bxa2 32. Rb7
+Bd5 33. Bc5 a2 34. Kh2 a1=Q 35. Rc7 Qe5+ 36. Kg1 Ra1+ 37. Kf2 Qe3+ 38. Kg3
+Qg5+ 39. Kh2 Qf4+ 40. g3 Re2+ 41. Bf2 Rxf2# 0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/n7fwkmdb"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Pen-Pen"]
+[Black "Thiago"]
+[Result "0-1"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 cxd4 5. cxd4 Nc6 6. Nf3 Qb6 7. Nc3 Nge7 8.
+Bd3 Ng6 9. O-O Be7 10. a3 O-O 11. Na4 Qc7 12. Be3 Bd7 13. Nc3 Qb6 14. Na4
+Qa5 15. b4 Qc7 16. Nc5 Bxc5 17. bxc5 f6 18. exf6 Rxf6 19. Qc2 Raf8 20. Bxg6
+Rxg6 21. Kh1 e5 22. dxe5 Nxe5 23. Nxe5 Qxe5 24. Rae1 Qh5 25. h3 Bxh3 26.
+Qxg6 hxg6 27. gxh3 Qxh3+ 28. Kg1 Rf5 29. Re2 Qg4+ 30. Kh2 Rh5# 0-1
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/88hzf0ty"]
+[Date "????.??.??"]
+[Round "?"]
+[White "consun"]
+[Black "jeh-1"]
+[Result "1-0"]
+
+1. d4 d5 2. c4 c6 3. Nc3 h6 4. e3 Nf6 5. Nf3 Bf5 6. Qb3 b6 7. Ne5 e6 8.
+cxd5 cxd5 9. Bb5+ Nfd7 10. Qa4 Bd6 11. Nxd7 Nxd7 12. O-O a6 13. Bc6 b5 14.
+Nxb5 axb5 15. Qxa8 Qxa8 16. Bxa8 e5 17. Bc6 exd4 18. exd4 O-O 19. Bxd7 Bxd7
+20. a3 Rc8 21. Bd2 Rc4 22. Bc3 b4 23. axb4 Bxb4 24. Rfc1 Bd6 25. Ra8+ Kh7
+26. Rd8 Rc7 27. Bd2 Rb7 28. b4 Be7 29. Ra8 Bxb4 30. Bxb4 Rxb4 31. h3 Rxd4
+32. Kf1 Bb5+ 33. Kg1 Rd2 34. Ra7 Kg6 35. Rcc7 d4 36. Rxf7 Be2 37. Rxg7+ Kh5
+38. Ra5+ Kh4 39. Kh2 h5 40. g3# 1-0
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/4tm2bumn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Thiago"]
+[Black "Pen-Pen"]
+[Result "1-0"]
+
+1. e4 e6 2. c3 d5 3. Qc2 dxe4 4. Qxe4 Nf6 5. Qc2 Nc6 6. Nf3 Bd6 7. Bb5 Bd7
+8. O-O O-O 9. d4 a6 10. Bd3 b5 11. Bg5 h6 12. Bh4 g5 13. Bg3 Qe7 14. Ne5
+Nxe5 15. dxe5 Nh5 16. exd6 cxd6 17. Qe2 Nf6 18. f4 Nh7 19. fxg5 Nxg5 20.
+Bf4 f6 21. Qh5 Qg7 22. Bxd6 Rf7 23. Bg6 Bc6 24. Bxf7+ Nxf7 25. Qh3 Nxd6 26.
+Rf2 f5 27. Nd2 Rf8 28. Nf3 Rf6 29. Ne5 Bd5 30. Raf1 Ne4 31. Rf3 Ng5 32. Qg3
+Nxf3+ 33. Rxf3 Bxf3 34. Qxf3 Kh7 35. Qa8 Rf8 36. Qf3 Rg8 37. Nd3 1-0
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/mh3tfgpq"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Sa052"]
+[Black "Batalj"]
+[Result "0-1"]
+
+1. e4 e6 2. Nc3 Ne7 3. d4 Ng6 4. Nf3 Be7 5. Bd3 O-O 6. Be3 d6 7. Qd2 Nd7 8.
+g4 c5 9. O-O-O cxd4 10. Nxd4 e5 11. Nf5 Nc5 12. Nxe7+ Qxe7 13. Nd5 Qh4 14.
+f3 Be6 15. Bf2 Qd8 16. Bxc5 dxc5 17. Be2 Bxd5 18. Qxd5 Qxd5 19. Rxd5 Nf4
+20. Rd2 b6 21. h4 h6 22. Bb5 a6 23. Bc6 Ra7 24. Rd6 b5 25. Rhd1 c4 26. g5
+h5 27. Bd5 g6 28. Rf6 Ne2+ 29. Kd2 Nd4 30. Kc3 a5 31. Rxg6+ Kh7 32. Rh6+
+Kg7 33. Rf1 Rc7 34. Kd2 f6 35. c3 Nc6 36. gxf6+ Kxh6 37. f7 Ne7 38. Rg1
+Nxd5 39. exd5 Rcxf7 0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/7tt2nrmd"]
+[Date "????.??.??"]
+[Round "?"]
+[White "nichiren1967"]
+[Black "Thiago"]
+[Result "0-1"]
+
+1. e4 e5 2. f4 Nc6 3. Nf3 exf4 4. h4 Bc5 5. d4 Bb6 6. Bxf4 d5 7. e5 Bg4 8.
+c3 f6 9. exf6 Nxf6 10. Nbd2 O-O 11. Be2 Ne4 12. O-O Rxf4 13. Nxe4 dxe4 14.
+Ne5 Rxf1+ 15. Qxf1 Nxe5 16. Bxg4 Nxg4 17. Qf4 Nf6 18. Kh1 Qd6 19. Qf5 Rf8
+20. Qg5 e3 21. Re1 Qd5 22. Rxe3 Qxg5 23. hxg5 Ng4 24. Rg3 Rf1# 0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/3ccwyq90"]
+[Date "????.??.??"]
+[Round "?"]
+[White "nichiren1967"]
+[Black "Thiago"]
+[Result "0-1"]
+
+1. e4 e5 2. f4 exf4 3. h4 d6 4. Nf3 Bg4 5. d4 Be7 6. Bxf4 Bxh4+ 7. g3 Bxf3
+8. Qxf3 Bg5 9. Nd2 Bxf4 10. gxf4 Qe7 11. c3 Nc6 12. O-O-O O-O-O 13. d5 Nb8
+14. a4 Nf6 15. b4 Rhe8 16. Bd3 c6 17. c4 cxd5 18. exd5 Qd7 19. b5 Qc7 20.
+Kb2 Qa5 21. Kb3 Nbd7 0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/znv6z730"]
+[Date "????.??.??"]
+[Round "?"]
+[White "argo"]
+[Black "Pen-Pen"]
+[Result "1-0"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. d3 Nxe4 6. dxe4 Qxd1+ 7. Kxd1
+Bc5 8. Be3 Bxe3 9. fxe3 c5 10. Bb5+ Nc6 11. Ke2 Bd7 12. Rad1 O-O-O 13. Rhf1
+a6 14. Bxc6 Bxc6 15. Ne5 Bb5+ 16. c4 Be8 17. Nxf7 Bxf7 18. Rxf7 Rxd1 19.
+Kxd1 g6 20. Ke2 h5 21. Rf6 Kd7 22. Rxg6 b6 23. Rg7+ Kc6 24. Re7 Rh6 25. Kf3
+b5 26. b3 bxc4 27. bxc4 Rf6+ 28. Ke2 Rg6 29. g3 Rf6 30. a4 Rg6 31. Rh7 Rf6
+32. Rxh5 a5 33. Rh7 Rg6 34. Ra7 Kb6 35. Rd7 Kc6 36. Rd8 Kc7 37. Ra8 Kb6 38.
+Rd8 Rh6 39. h4 Rg6 40. Kf3 Kc6 41. Rf8 Rg7 42. e5 Kb6 43. e4 Kc6 44. Rf6
+Kd7 45. g4 Ke7 46. g5 Rh7 47. Kg4 Rh8 48. h5 Rd8 49. g6 Rh8 50. Rf7+ Ke8
+51. g7 Rg8 52. Rf8+ Rxf8 53. gxf8=Q+ Kxf8 54. Kg5 Kg7 55. h6+ Kf7 56. h7
+Kg7 57. h8=Q+ Kxh8 58. Kf6 Kg8 59. Kxe6 Kf8 60. Kd5 Ke7 61. e6 Kd8 62. e5
+Ke7 63. Kxc5 Kxe6 64. Kb5 Kxe5 65. Kxa5 Kd6 66. Kb5 Kc7 67. c5 Kb7 68. a5
+Ka7 69. a6 Kb8 70. c6 Kc7 71. a7 Kd6 72. Kb6 1-0
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/rwro6r2y"]
+[Date "????.??.??"]
+[Round "?"]
+[White "tehas23"]
+[Black "Thiago"]
+[Result "1-0"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Nf3 Nd7 5. Be3 Ngf6 6. Bd3 O-O 7. Qd2 e5 8.
+d5 Ne8 9. O-O-O c6 10. h4 cxd5 11. Nxd5 Nb6 12. Nxb6 axb6 13. h5 Nc7 14.
+hxg6 Rxa2 15. c3 Ra1+ 16. Kc2 Rxd1 17. Rxd1 fxg6 18. Bh6 Bxh6 19. Qxh6 Rf7
+20. Rh1 Qe7 21. Ng5 Rg7 22. Be2 d5 23. exd5 Nxd5 24. Bc4 Bf5+ 25. Kb3 Qd6
+26. Nxh7 1-0
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ztgjbn1a"]
+[Date "????.??.??"]
+[Round "?"]
+[White "nichiren1967"]
+[Black "Voltvolf"]
+[Result "0-1"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 Bf5 6. Nf3 N8d7 7. Bd3 Bg4 8.
+h3 Bxf3 9. Qxf3 Rb8 10. Nc3 dxe5 11. fxe5 e6 12. O-O f6 13. Qh5+ g6 14. Qf3
+f5 15. g4 Qh4 16. gxf5 gxf5 17. Bxf5 Rg8+ 18. Kh2 exf5 19. b3 Kd8 20. Be3
+Bh6 21. Bxh6 Qxh6 22. Nd5 Nxd5 23. cxd5 Qd2+ 24. Rf2 Qxd4 25. e6 Qe5+ 26.
+Qf4 Qxf4+ 27. Rxf4 Nf6 28. Rxf5 Ke7 29. Raf1 Rbf8 30. Kh1 Rg6 31. b4 Rd8
+32. Rd1 Kd6 33. a4 Re8 34. Rh5 Rg3 35. Kh2 Rb3 36. Rd4 Ra3 37. a5 Ra2+ 38.
+Kh1 Rg8 39. Rd1 Rgg2 40. h4 Rh2+ 41. Kg1 Rag2+ 42. Kf1 Rb2 43. Rh6 Rh1# 0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/i59x0odo"]
+[Date "????.??.??"]
+[Round "?"]
+[White "tehas23"]
+[Black "argo"]
+[Result "0-1"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nc6 5. Nf3 Nf6 6. Bd3 Bg4 7. Be3 Bd6
+8. Qd2 O-O 9. O-O-O Bxf3 10. gxf3 Nb4 11. Rhg1 Nxd3+ 12. Qxd3 c5 13. Bh6 g6
+14. Bxf8 Qxf8 15. f4 c4 16. Qd2 Bb4 17. f5 Ne4 18. Qe1 Nxc3 19. bxc3 Ba3+
+20. Kb1 Qd6 21. Qe3 Qb6+ 22. Ka1 Qb2# 0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/6v9rjgyr"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Voltvolf"]
+[Black "nichiren1967"]
+[Result "1-0"]
+
+1. e4 e5 2. f4 f5 3. exf5 Qf6 4. fxe5 Qxf5 5. Nf3 d6 6. Bd3 Qe6 7. Qe2 Nc6
+8. exd6 Qxe2+ 9. Bxe2 Bxd6 10. O-O Nf6 11. Bb5 Bd7 12. Re1+ Kd8 13. Bxc6
+Bxc6 14. Ne5 Bxe5 15. Rxe5 Kd7 16. d4 Rae8 17. Bf4 Rxe5 18. dxe5 Nd5 19.
+Bg3 Ne3 20. Na3 Nf5 21. Rd1+ Ke6 22. Bf4 h6 23. Nc4 g5 24. Bc1 Bb5 25. Ne3
+Kxe5 26. Nxf5 Kxf5 27. Rd5+ Ke4 28. Rxb5 Rd8 29. Kf2 b6 30. Rb4+ Kf5 31.
+Be3 c5 32. Ra4 Rd7 33. a3 Rf7 34. Kg3 h5 35. h4 g4 36. Rf4+ Ke6 37. Rxf7
+Kxf7 38. Kf4 Kg6 39. g3 a6 40. Ke5 Kf7 41. Bf4 Ke7 42. c4 Kd7 43. Kd5 a5
+44. b3 1-0
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/zo88cg9f"]
+[Date "????.??.??"]
+[Round "?"]
+[White "NOCKA"]
+[Black "RASA"]
+[Result "1/2-1/2"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d6 4. d4 exd4 5. cxd4 Bg4 6. Be2 Bxf3 7. Bxf3 Qf6
+8. Be3 Be7 9. Nc3 Bd8 10. Nd5 Qe6 11. O-O Nge7 12. Nxe7 Qxe7 13. Qb3 Rb8
+14. e5 Na5 15. Qa4+ Nc6 16. Bxc6+ bxc6 17. Qxc6+ Kf8 18. exd6 Qxd6 19.
+Qxd6+ cxd6 20. b3 Bb6 21. Rfc1 f6 22. a4 Kf7 23. a5 Bd8 24. d5 Be7 25. Rab1
+a6 26. g3 Rb5 27. b4 Rxd5 28. Rc6 Ra8 29. Rbc1 Rb5 30. R1c4 d5 31. Rd4 Bxb4
+32. Rc7+ Kg8 33. Rd7 Bxa5 34. R4xd5 Rxd5 35. Rxd5 Bc3 36. Kf1 a5 37. Bc5 a4
+38. Ba3 h6 39. Ke2 Rb8 40. Kd1 Rb3 41. Bc1 Be5 42. Rd8+ Kf7 43. Ra8 Bb2 44.
+Rxa4 Bxc1 45. Kxc1 Rd3 46. h3 g5 47. h4 Kg6 48. hxg5 hxg5 49. Ra2 Kh5 50.
+Rd2 Rf3 51. Kd1 Kg4 52. Ke2 Ra3 53. Rd5 f5 54. Kf1 f4 55. gxf4 gxf4 56. Kg2
+Rb3 57. Rd4 Kf5 58. Rc4 Kg4 59. Ra4 Kf5 60. Rc4 Kg4 61. Ra4 Kf5 62. Rc4 Kg4
+63. Ra4 Kf5 64. Rc4 Kg4 65. Ra4 Kf5 66. Rc4 Kg4 67. Ra4 Kf5 68. Rc4 Kg4 69.
+Ra4 Kf5 1/2-1/2
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/06v27rcj"]
+[Date "????.??.??"]
+[Round "?"]
+[White "RASA"]
+[Black "NOCKA"]
+[Result "0-1"]
+
+1. d4 d5 2. Nf3 Nc6 3. e3 f6 4. Nc3 e5 5. dxe5 fxe5 6. Bb5 e4 7. Nd4 Qd6 8.
+Qh5+ g6 9. Qxd5 Qxd5 10. Nxd5 Bd7 11. Bxc6 Bxc6 12. Nxc7+ Kd8 13. Nxa8 Kc8
+14. Nxc6 bxc6 15. O-O Kb7 16. Rd1 Nf6 17. Rd6 Bxd6 18. b3 Rxa8 19. Bb2 Ng4
+20. h3 Ne5 21. Rd1 Nf7 22. c4 Kc7 23. a3 a5 24. g3 Ne5 25. Kg2 Nd3 26. Bd4
+c5 27. Bg7 Rb8 28. b4 axb4 29. axb4 cxb4 30. f3 exf3+ 31. Kxf3 Nc5 32. Bh6
+b3 33. Rxd6 Kxd6 34. Bf4+ Kc6 35. Bxb8 b2 0-1
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/12hi0f96"]
+[Date "????.??.??"]
+[Round "?"]
+[White "NOCKA"]
+[Black "RASA"]
+[Result "0-1"]
+
+1. c4 e5 2. Nc3 Nc6 3. e4 Bb4 4. d3 Nf6 5. Nf3 O-O 6. Be2 d6 7. O-O Bg4 8.
+h3 Bxf3 9. Bxf3 Bxc3 10. bxc3 b6 11. d4 exd4 12. e5 Nxe5 13. Bxa8 Qxa8 14.
+cxd4 Nxc4 15. Qd3 d5 16. Bf4 c6 17. Be5 Nd7 18. Rfe1 Ndxe5 19. dxe5 Re8 20.
+Qf5 Re6 21. Rac1 b5 22. f4 Qe8 23. Qg5 a5 24. g4 a4 25. Qf5 f6 26. Qh5 Qxh5
+27. gxh5 fxe5 28. fxe5 Rxe5 29. Rxe5 Nxe5 30. Kg2 Kf7 31. Kg3 Ke6 32. Re1
+Kd6 33. a3 c5 34. Re2 c4 35. Kf4 Nd3+ 36. Kg5 Ne5 37. h6 gxh6+ 38. Kxh6 d4
+39. Kxh7 d3 40. Re1 c3 41. h4 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/rd2q09k3"]
+[Date "????.??.??"]
+[Round "?"]
+[White "ghodsian"]
+[Black "Sa052"]
+[Result "1-0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 Bd7 6. Bxc6 Bxc6 7. dxe5
+dxe5 8. Qxd8+ Rxd8 9. Nxe5 Bxe4 10. Re1 Bd6 11. Ng4 Nxg4 12. Rxe4+ Ne5 13.
+f4 Bc5+ 14. Be3 Rd1+ 15. Kf2 Bxe3+ 16. Rxe3 O-O 17. fxe5 Rfd8 18. Ke2 Rh1
+19. Rd3 Re8 20. Kf2 g6 21. Re3 Rxh2 22. Nc3 f6 23. Nd5 Kf7 24. Nxf6 1-0
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/96d7w3pu"]
+[Date "????.??.??"]
+[Round "?"]
+[White "RASA"]
+[Black "NOCKA"]
+[Result "0-1"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 Bg4 4. Be2 Nc6 5. Bb5 Bxf3 6. Qxf3 a6 7. Bxc6+
+bxc6 8. c3 e6 9. Nd2 Bd6 10. e4 dxe4 11. Nxe4 Nxe4 12. Qxe4 Qd7 13. O-O O-O
+14. Be3 Rab8 15. b3 Ba3 16. c4 Rfd8 17. Rfd1 c5 18. d5 exd5 19. Qxd5 Qxd5
+20. Rxd5 Rxd5 21. cxd5 Kf8 22. Rd1 Ke7 23. Bf4 Rc8 24. g3 f6 25. h4 Bb2 26.
+d6+ cxd6 27. Rxd6 a5 28. Ra6 Bc3 29. Be3 Kd7 30. Ra7+ Rc7 31. Rxc7+ Kxc7
+32. Bxc5 Kc6 33. Bf8 g6 34. a3 Kd5 35. b4 a4 36. b5 Bd4 37. Kg2 Kc4 38. Be7
+Kxb5 39. Kf3 Kc4 40. Ke4 Bxf2 41. Bxf6 Bxg3 42. Kf3 Bd6 43. Bb2 Kb3 0-1
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/znj61g7f"]
+[Date "????.??.??"]
+[Round "?"]
+[White "NOCKA"]
+[Black "RASA"]
+[Result "0-1"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 d6 6. Nc3 Nf6 7. Bg5
+Be7 8. Bc4 h6 9. Bh4 c5 10. Qd3 O-O 11. f4 a6 12. h3 b5 13. Bd5 Nxd5 14.
+Qxd5 Be6 15. Qd3 Bxh4+ 16. g3 Bf6 17. Nd5 Bxd5 18. Qxd5 Bxb2 19. Rb1 Bc3+
+20. Kf2 Bd4+ 21. Kg2 b4 22. g4 Qe7 23. h4 Qe6 24. Rbe1 Qxd5 25. exd5 Rfe8
+26. g5 h5 27. Kf3 Kf8 28. f5 Rxe1 29. Rxe1 Re8 30. Rxe8+ Kxe8 31. g6 fxg6
+32. fxg6 Ke7 33. Kf4 Kf6 0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/6amh2tus"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Thiago"]
+[Black "suq_madiq"]
+[Result "1-0"]
+
+1. e4 c5 2. b3 e6 3. Bb2 f6 4. Nf3 Qc7 5. Be2 Nc6 6. O-O Bd6 7. h3 Nge7 8.
+d4 cxd4 9. Nxd4 a6 10. Nxc6 bxc6 11. Bf3 O-O 12. Qd3 Ng6 13. Nc3 Ne5 14.
+Qe3 Nxf3+ 15. Qxf3 Be5 16. Rad1 d5 17. exd5 exd5 18. Qd3 Be6 19. Na4 Bf7
+20. Bxe5 Qxe5 21. Nc5 Bg6 22. Qf3 Bxc2 23. Rc1 Bg6 24. Nd7 Qe4 25. Nxf8
+Qxf3 26. gxf3 Kxf8 27. Rxc6 Bd3 28. Rd1 Bb5 29. Rd6 Re8 30. R6xd5 Kf7 31.
+Rd8 Re6 32. Ra8 Kg6 33. Ra7 Re5 34. Rdd7 Rg5+ 35. Kh2 Rf5 36. Rxg7+ Kh6 37.
+Rxh7+ Kg5 38. Rag7+ Kf4 39. Rg4+ Kxf3 40. Rg3+ Kxf2 41. Rd7 Ke2 42. Rc7 Kd2
+43. Re7 Rf2+ 44. Rg2 Rxg2+ 45. Kxg2 Kc2 46. Rf7 Kb2 47. Rxf6 Kxa2 48. Rf2+
+Kxb3 49. Rf3+ Kc4 50. h4 Kd5 51. h5 a5 52. h6 Bc4 53. h7 Be2 54. Rf2 Bd3
+55. h8=Q Kc4 56. Qf6 Kb3 57. Qf4 a4 58. Rd2 Kc3 59. Qe3 a3 60. Qxd3+ Kb4
+61. Rc2 a2 62. Qc4+ Ka5 63. Rxa2+ Kb6 64. Qb4+ Kc6 65. Rc2+ Kd5 66. Qc4+
+Ke5 67. Qc3+ Ke4 68. Qd3+ Ke5 69. Qc3+ Ke4 70. Qd2 Ke5 71. Rc3 Ke4 72. Qd4+
+Kf5 73. Qc4 Kf6 74. Qc5 Ke6 75. Rb3 Kf6 76. Rb6+ Kf7 77. Qc7+ 1-0
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/xcadopi0"]
+[Date "????.??.??"]
+[Round "?"]
+[White "RASA"]
+[Black "NOCKA"]
+[Result "1-0"]
+
+1. d4 d5 2. Nf3 Nc6 3. e3 e5 4. dxe5 Nxe5 5. Nxe5 Bb4+ 6. c3 Bd6 7. Nd3 Nf6
+8. Nd2 c5 9. b3 b5 10. Ba3 Qb6 11. Be2 Bb7 12. O-O O-O 13. h3 a6 14. Nf4
+Qc7 15. Bf3 a5 16. c4 b4 17. Bb2 d4 18. Bxb7 Qxb7 19. Nd5 Nxd5 20. cxd5
+Qxd5 21. exd4 cxd4 22. Nf3 d3 23. Re1 Rfe8 24. Rxe8+ Rxe8 25. Rc1 Re2 26.
+Rc4 Rxb2 27. Rd4 Qc5 28. Kh1 Rxf2 29. Rxd3 Bf8 30. Rd8 Rc2 31. Rxf8+ Qxf8
+32. Qxc2 h6 33. g3 Qd8 34. Kg2 Qd5 35. Qd2 Qc5 36. g4 Kf8 37. Qd8# 1-0
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/spl7jw9u"]
+[Date "????.??.??"]
+[Round "?"]
+[White "olinchuk"]
+[Black "troepianiz"]
+[Result "0-1"]
+
+1. e4 g6 2. Bc4 Bg7 3. d3 Nc6 4. Nf3 Ne5 5. Nxe5 Bxe5 6. Qf3 e6 7. O-O Qf6
+8. Qxf6 Nxf6 9. c3 d5 10. exd5 Nxd5 11. d4 Bf6 12. Bh6 Nb6 13. Bb3 Bd7 14.
+a4 O-O-O 15. a5 Nd5 16. Bxd5 exd5 17. Bf4 Bb5 18. Re1 Rhe8 19. Nd2 Re6 20.
+Rxe6 fxe6 21. Re1 Kd7 22. Nf3 Re8 23. Be5 Be7 24. b4 Rf8 25. h3 g5 26. Bg3
+Bf6 27. Be5 Be7 28. Bg3 Bf6 29. Ne5+ Bxe5 30. Bxe5 h5 31. g3 b6 32. axb6
+axb6 33. Ra1 Rf7 34. Ra7 Kc6 35. Kg2 Bd3 36. Kg1 Be2 37. Ra8 g4 38. h4 Rh7
+39. Re8 Kb5 40. Rxe6 Kc4 41. Rc6+ Kd3 42. c4 dxc4 43. Rxc4 c5 44. Rc1 cxd4
+45. Rc6 b5 46. Rd6 Kc4 47. Rxd4+ Kb3 48. Bd6 Ra7 49. Rf4 Ra1+ 50. Kh2 Bf3
+51. Rxf3+ gxf3 52. Bc5 Rf1 53. Bd6 Rxf2+ 54. Kg1 Rd2 55. Kf1 Kc2 56. Bf4
+Rg2 57. Bd6 Kd1 58. Bf4 Rb2 59. Bd6 Rc2 60. Bc5 Rc3 61. Kf2 Rd3 62. Bb6 Kc2
+63. Bc5 Rb3 64. Bd6 Rd3 65. Bc5 Kb3 66. Be7 Kc4 67. Bc5 Kd5 68. Be3 Ke4 69.
+Bf4 Rb3 70. Bd6 Rb2+ 71. Kf1 Kf5 72. Bc5 Kg4 73. Bd6 Kh3 74. Kg1 Rg2+ 75.
+Kf1 Rxg3 76. Kf2 Rg4 77. Kxf3 Rxh4 78. Be7 Rc4 79. Bd6 Rc6 80. Be7 Re6 81.
+Bc5 Rf6+ 82. Ke2 Kg2 83. Bb6 h4 84. Bd8 Re6+ 85. Kd2 h3 86. Bc7 h2 87. Bxh2
+Kxh2 88. Kd3 Rc6 89. Kd2 Kg2 90. Kd3 Kf3 91. Kd4 Kf4 92. Kd5 Rc4 93. Kd6
+Ke4 94. Kd7 Ke5 95. Kd8 Ke6 96. Ke8 Rc8# 0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/3zmq5axl"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Thiago"]
+[Black "tehas23"]
+[Result "1-0"]
+
+1. e4 e6 2. d3 d5 3. c3 dxe4 4. d4 e5 5. Nd2 exd4 6. Nxe4 dxc3 7. Qxd8+
+Kxd8 8. bxc3 Be6 9. Ng5 Nc6 10. N1f3 Nf6 11. Nxe6+ fxe6 12. Bc4 Bd6 13. O-O
+Ke7 14. Re1 Ne5 15. Nxe5 Bxe5 16. Rxe5 Rhe8 17. Rxe6+ Kf7 18. Rxe8+ Kxe8
+19. Ba3 Rd8 20. Re1+ Kd7 21. Rd1+ Kc8 22. Be6+ Kb8 23. Rxd8# 1-0
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/ziyrhtar"]
+[Date "????.??.??"]
+[Round "?"]
+[White "tehas23"]
+[Black "Thiago"]
+[Result "1-0"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Be3 Nd7 5. Qd2 Ngf6 6. O-O-O O-O 7. e5 dxe5
+8. dxe5 Ne8 9. f4 e6 10. Bb5 Qe7 11. Bxd7 Bxd7 12. Qxd7 Qb4 13. Qd4 Qe7 14.
+Nf3 f6 15. exf6 Bxf6 16. Qd3 Nd6 17. Bd4 Rad8 18. Bxf6 Qxf6 19. Qe2 Qxf4+
+20. Kb1 Ne4 21. Nxe4 Rxd1+ 22. Rxd1 e5 23. g3 Qxf3 24. Qxf3 Rxf3 25. Nc5
+Re3 26. b3 b6 27. Nd7 c5 28. Rd5 e4 29. Nf6+ Kg7 30. Nd7 Re1+ 31. Kb2 Re2
+32. h4 Rg2 33. Re5 Rxg3 34. Rxe4 Rg2 35. Re7+ Kh6 36. Ne5 a5 37. Re6 b5 38.
+Nc6 a4 39. bxa4 bxa4 40. Re5 Rg4 41. Rxc5 Rxh4 42. Ra5 Rc4 43. a3 Rxc6 44.
+Rxa4 Rf6 45. Rc4 Kg5 46. a4 h5 47. a5 Kh6 48. Rc3 Ra6 49. Ra3 Ra7 50. a6 g5
+51. Kb3 h4 52. Kb4 Kh5 53. Kb5 g4 54. Kb6 h3 55. Kxa7 h2 56. Ra1 h1=Q 57.
+Rxh1+ Kg5 58. Rg1 Kf4 59. Kb7 Kf3 60. a7 g3 61. a8=Q Kf2 62. Rc1 g2 63.
+Qf8+ Kg3 64. Qg8+ Kh2 65. c3 1-0
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/03xuyknn"]
+[Date "????.??.??"]
+[Round "?"]
+[White "sonie"]
+[Black "qbot"]
+[Result "1-0"]
+
+1. e4 c6 2. f4 d5 3. e5 Bf5 4. Nf3 e6 5. d4 Bb4+ 6. c3 Ba5 7. Bd3 Bxd3 8.
+Qxd3 Ne7 9. Be3 Nd7 10. a4 Bb6 11. b4 a5 12. b5 cxb5 13. axb5 Qc7 14. Na3
+Rc8 15. Rc1 Ng6 16. c4 dxc4 17. Nxc4 Qd8 18. O-O Ba7 19. Nd6+ Kf8 20. Rxc8
+Qxc8 21. Nxc8 1-0
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/3vpa89uj"]
+[Date "????.??.??"]
+[Round "?"]
+[White "suq_madiq"]
+[Black "sonie"]
+[Result "1-0"]
+
+1. e4 d5 2. Nc3 d4 3. Nb1 e5 4. d3 b6 5. c3 c5 6. Be2 Nf6 7. f4 Bd6 8. fxe5
+Bxe5 9. Nf3 Qe7 10. Nxe5 Qxe5 11. O-O Nc6 12. Bf4 Qe6 13. c4 O-O 14. Nd2
+Qe7 15. Nf3 h6 16. Qd2 Bg4 17. Bxh6 gxh6 18. Qxh6 Bxf3 19. Rxf3 Ne5 20.
+Rxf6 Ng6 21. Rf3 Qh4 22. Qd2 Rae8 23. Rh3 Qf6 24. Rf1 Qg7 25. Bh5 Re6 26.
+Rff3 f5 27. exf5 Ref6 28. fxg6 Rxf3 29. gxf3 Qe5 30. f4 Rxf4 31. Rg3 Qxh5
+32. Qxf4 Qd1+ 33. Qf1 Qh5 34. Qf2 b5 35. b3 Qd1+ 36. Kg2 Qh5 37. Rh3 Qg4+
+38. Rg3 Qe6 39. Qf3 bxc4 40. bxc4 a5 41. Qe4 Qf6 42. Rf3 Qg5+ 43. Rg3 Qd2+
+44. Kh3 Qh6+ 45. Qh4 Qe3 46. Rxe3 dxe3 47. Qe4 e2 48. Qxe2 Kg7 49. Qh5 a4
+50. Kg4 a3 51. Qh7+ Kf6 52. Qf7+ Ke5 53. g7 Kd4 54. g8=Q Kxd3 55. Qd5+ 1-0
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/a2zeb237"]
+[Date "????.??.??"]
+[Round "?"]
+[White "troepianiz"]
+[Black "olinchuk"]
+[Result "1-0"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. d3 Nf6 1-0
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/3p2xuj2g"]
+[Date "????.??.??"]
+[Round "?"]
+[White "pronik"]
+[Black "ghodsian"]
+[Result "0-1"]
+
+1. d4 Nf6 2. Nf3 d5 3. e3 c5 4. c3 cxd4 5. exd4 e6 6. Ne5 a6 7. Bd3 Nbd7 8.
+O-O Bd6 9. f4 Ne4 10. Bxe4 dxe4 11. Nd2 Bxe5 12. fxe5 f5 13. Nc4 O-O 14.
+Nd6 b5 15. Qb3 Nb6 16. Qb4 Qc7 17. b3 Nd5 18. Qc5 Qxc5 19. dxc5 Nxc3 20.
+Bd2 Nd5 21. Bg5 Bd7 22. a3 h6 23. Bd2 Bc6 24. b4 e3 25. Be1 f4 26. Ra2 g5
+27. h3 h5 28. Kh2 Ne7 29. Rb2 Nf5 30. Kg1 Ne7 31. Kh2 Ng6 32. Bc3 g4 33.
+hxg4 hxg4 0-1
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/60b6cqfd"]
+[Date "????.??.??"]
+[Round "?"]
+[White "BerserK"]
+[Black "NOCKA"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 Bb4+ 5. Nc3 h6 6. cxd5 exd5 7. Bxf6
+Qxf6 8. e3 Nc6 9. Bb5 Bd7 10. O-O Bxc3 11. bxc3 O-O 12. c4 Qe6 13. Rc1 a6
+14. cxd5 Qxd5 15. Bc4 Qh5 16. Qd3 Nb4 17. Qb3 a5 18. Ne5 Be8 19. a3 b5 20.
+Bxf7+ Bxf7 21. Nxf7 Qxf7 22. Qxf7+ Rxf7 23. axb4 axb4 24. Rb1 Ra4 25. Rfc1
+Kf8 26. Rc2 Ke8 27. Kf1 Kd8 28. Ke2 Kd7 29. Rcb2 c6 30. Rxb4 Ra2+ 31. R1b2
+Rxb2+ 32. Rxb2 Kd6 33. Kd3 Ra7 34. Ke4 Ra1 35. Kf5 Kd5 36. Kg6 Rc1 37. Kxg7
+Kc4 38. Kxh6 Kc3 39. Ra2 b4 40. g4 b3 41. Ra8 b2 42. Rb8 b1=Q 43. Rxb1 Rxb1
+44. g5 Rh1 45. Kg7 Rxh2 46. f4 Kd3 47. f5 Kxe3 48. f6 Kxd4 49. f7 Rf2 50.
+f8=Q Rxf8 51. Kxf8 c5 52. g6 c4 53. g7 c3 54. g8=Q Kd3 55. Qg3+ Kd2 56.
+Qf2+ Kd1 57. Qd4+ Kc2 58. Qc4 Kb2 59. Qb4+ Kc2 60. Ke7 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/mit0k3j0"]
+[Date "????.??.??"]
+[Round "?"]
+[White "bert"]
+[Black "HLD"]
+[Result "1-0"]
+
+1. e4 d5 2. exd5 Qxd5 3. d4 Nc6 4. Nf3 Bg4 5. Be2 Bxf3 6. Bxf3 Qxd4 7.
+Bxc6+ 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/2dsl5j7v"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nikvol"]
+[Black "ghodsian"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. Nc3 Bb7 5. Bg5 Be7 6. e3 h6 7. Bh4 O-O 8.
+Rc1 c5 9. a3 cxd4 10. Nxd4 Nc6 11. Nxc6 dxc6 12. Qc2 Qc7 13. Be2 Rfd8 14.
+Bf3 a6 15. O-O c5 16. Bxb7 Qxb7 17. Rcd1 b5 18. cxb5 axb5 19. Qb3 b4 20.
+axb4 Qxb4 21. Qxb4 cxb4 22. Nb5 Rab8 23. Nd4 Nd5 24. Bxe7 Nxe7 25. Rc1 Rdc8
+26. f3 e5 27. Nb3 Rxc1 28. Rxc1 Rc8 29. Rxc8+ Nxc8 30. Na5 Nb6 31. Nc6 b3
+32. Nxe5 Nc4 33. Nxc4 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/0hwrng3u"]
+[Date "????.??.??"]
+[Round "?"]
+[White "toma-st"]
+[Black "pronik"]
+[Result "0-1"]
+
+1. e4 d6 2. d4 e6 3. Bd3 Nd7 4. Be3 e5 5. d5 c5 6. c4 Be7 7. Nc3 a6 8. b3
+Ngf6 9. h3 O-O 10. Nge2 b6 11. a4 Re8 12. f4 Nh5 13. Kd2 exf4 14. Nxf4 Nxf4
+15. Bxf4 Nf6 16. Rf1 Nd7 17. Qf3 Rf8 18. Rae1 f6 19. Kc2 Ne5 20. Qh5 Qe8
+21. g4 Qxh5 22. gxh5 Bxh3 23. Rg1 Nf3 24. Ne2 Nxe1+ 25. Rxe1 Bd7 26. Rg1
+Kh8 27. Ng3 Rad8 28. Nf5 Bxf5 29. exf5 Rfe8 30. h6 gxh6 31. Bxh6 Rg8 32.
+Re1 Rd7 33. Be4 Bf8 34. Bf4 Rg4 35. Rf1 h5 36. Bf3 Rh4 37. Bd2 Re7 38. Rg1
+Kh7 39. Rg2 Bh6 40. Be1 Rh3 41. Bd1 Rxe1 42. Kb2 Re5 43. Bc2 Bg5 44. Ka3
+Kh6 45. Bd1 h4 46. Bg4 Rg3 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/t9u2w48n"]
+[Date "????.??.??"]
+[Round "?"]
+[White "toma-st"]
+[Black "ghodsian"]
+[Result "1-0"]
+
+1. e4 e5 2. Bc4 Nc6 3. a3 Nf6 4. d3 Bc5 5. h3 d5 6. exd5 Nxd5 7. Nf3 O-O 8.
+O-O h6 9. b4 Bd4 10. c3 Bxc3 11. Nxc3 Nxc3 12. Qb3 Ne2+ 13. Kh2 Ncd4 14.
+Nxd4 exd4 15. Ra2 Qd6+ 16. Kh1 Nxc1 17. Rxc1 Be6 18. Re2 Bxc4 19. Qxc4 c6
+20. Re4 Rad8 21. Rce1 Kh8 22. Re7 Rd7 23. R7e4 f5 24. Re8 Rxe8 25. Rxe8+
+Kh7 26. Qg8+ Kg6 27. Re6+ 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bpbv5zxp"]
+[Date "????.??.??"]
+[Round "?"]
+[White "D31283"]
+[Black "lancelotukr"]
+[Result "1-0"]
+
+1. d4 d5 2. Nf3 Nc6 3. Bf4 Bf5 4. e3 e6 5. Bd3 Bg6 6. Ne5 Nxe5 7. Bxe5 Nf6
+8. Bxg6 hxg6 9. Nd2 Bd6 10. Bxd6 cxd6 11. c4 dxc4 12. Nxc4 O-O 13. O-O d5
+14. Ne5 Nd7 15. Nxd7 Qxd7 16. Rc1 Rac8 17. a3 Rc6 18. Rxc6 bxc6 19. Qa4 Rc8
+20. Rc1 Qb7 21. b4 a6 22. h3 Qb5 23. Qb3 a5 24. Rc5 a4 25. Qc2 Qa6 26. Ra5
+Qb7 27. Qxa4 Qb8 28. Rc5 Qd6 29. b5 cxb5 30. Rxc8+ Kh7 31. Qb3 Qd7 32. Rc5
+1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/kkv8vm16"]
+[Date "????.??.??"]
+[Round "?"]
+[White "D31283"]
+[Black "lancelotukr"]
+[Result "0-1"]
+
+1. d4 d5 2. Nf3 Bf5 3. Bf4 e6 4. e3 Nf6 5. Bd3 Bg6 6. Bxg6 hxg6 7. Nbd2 Nh5
+8. c3 Nxf4 9. exf4 Bd6 10. g3 Nc6 11. Qc2 Ne7 12. O-O-O Nf5 13. Ne5 Rh6 14.
+Ndf3 f6 15. Nd3 Kf7 16. h4 a5 17. Rde1 b6 18. Re2 Qd7 19. Rhe1 Re8 20. a3
+c5 21. dxc5 bxc5 22. Nd2 c4 23. Ne5+ fxe5 24. fxe5 Bc5 25. Nf3 Be7 26. Rh1
+Rhh8 27. Ree1 Qb5 28. Ng1 Qb3 29. Qb1 Rb8 30. Ne2 Bxa3 31. Nd4 Bxb2+ 32.
+Kd2 Qxc3+ 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/a4i8wywv"]
+[Date "????.??.??"]
+[Round "?"]
+[White "lancelotukr"]
+[Black "D31283"]
+[Result "0-1"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 b6 6. e3 Bb7 7. Rc1 O-O 8.
+Bd3 dxc4 9. Bxc4 Nbd7 10. O-O c5 11. Re1 Bxf3 12. Qxf3 cxd4 13. exd4 Rc8
+14. Bb3 h6 15. Bh4 Nh7 16. Bxe7 Qxe7 17. Ne4 Ng5 18. Nxg5 Qxg5 19. Qb7 Rxc1
+20. Rf1 Rxf1+ 21. Kxf1 Qb5+ 22. Ke1 a5 23. Qe4 Nf6 24. Qc2 Rd8 25. Ba4 Qb4+
+26. Ke2 Rxd4 27. Qc8+ Kh7 28. Qc2+ g6 29. Bb3 Ne4 30. Qc7 Qd2+ 31. Kf3
+Qxf2+ 32. Kg4 Nf6+ 33. Kh3 Qh4# 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/gu5gm64x"]
+[Date "????.??.??"]
+[Round "?"]
+[White "ars72"]
+[Black "zapatayack"]
+[Result "0-1"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. O-O Nf6 5. Re1 O-O 6. c3 Nc6 7. d4 exd4 8.
+cxd4 Bg4 9. Nc3 Bxf3 10. gxf3 h6 11. Kh1 Nh7 12. Rg1 Bg5 13. f4 Bf6 14. e5
+dxe5 15. fxe5 Bg5 16. f4 Bh4 17. d5 Bf2 18. Rg2 Na5 19. Bd3 Bb6 20. Qc2 Qh4
+21. Bxh7+ Kh8 22. Bd3 Qe1+ 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/bakdmbpi"]
+[Date "????.??.??"]
+[Round "?"]
+[White "D31283"]
+[Black "lancelotukr"]
+[Result "1-0"]
+
+1. d4 d5 2. Nf3 Nc6 3. Bf4 Bf5 4. e3 Nf6 5. Bd3 Bg6 6. Bxg6 hxg6 7. Nbd2
+Nh5 8. c3 Nxf4 9. exf4 e6 10. Qc2 Bd6 11. g3 Qf6 12. O-O-O Qf5 13. h4 Qg4
+14. Ne5 Nxe5 15. fxe5 Be7 16. Qb3 O-O-O 17. Qa4 Kb8 18. Nb3 Rc8 19. Na5 c5
+20. Kb1 g5 21. hxg5 Qxg5 22. Rxh8 Rxh8 23. Qd7 Qf5+ 24. Ka1 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uhet5b4b"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Nikvol"]
+[Black "gambitking"]
+[Result "1-0"]
+
+1. d4 e5 2. e3 c6 3. c4 Nf6 4. Nc3 Bb4 5. dxe5 Ne4 6. Bd2 Nxd2 7. Qxd2 Qa5
+8. a3 O-O 9. Nf3 d6 10. exd6 Rd8 11. Rd1 Rxd6 12. axb4 Rxd2 13. bxa5 Rxd1+
+14. Nxd1 Bg4 15. Be2 Nd7 16. Nc3 Bxf3 17. Bxf3 Ne5 18. Be2 Rd8 19. f4 Nd3+
+20. Bxd3 Rxd3 21. Ke2 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/6zrvizuq"]
+[Date "????.??.??"]
+[Round "?"]
+[White "zapatayack"]
+[Black "ars72"]
+[Result "1-0"]
+
+1. e4 c5 2. Bc4 e6 3. Nf3 Nc6 4. Nc3 d6 5. O-O g6 6. d3 Bg7 7. Bg5 Nge7 8.
+a3 a6 9. Rb1 b5 10. Ba2 O-O 11. Ne2 Qc7 12. Ng3 Ne5 13. Nxe5 Bxe5 14. f4
+Bg7 15. f5 h6 16. Bxe7 Qxe7 17. fxg6 fxg6 18. Qg4 Rxf1+ 19. Rxf1 Kh7 20.
+Ne2 g5 21. e5 Bxe5 22. Qe4+ Kg7 23. Qxa8 Bb7 24. Bxe6 Qxe6 25. Qxb7+ Kg6
+26. Qe4+ Kg7 27. Qf5 Qd5 28. Qd7+ Kg6 29. Qf5+ Kg7 30. Qe4 Qe6 31. c3 a5
+32. Qb7+ Kg6 33. Ng3 b4 34. axb4 axb4 35. Qe4+ Kg7 36. Nh5+ Kg8 37. Re1
+bxc3 38. bxc3 Qe8 39. Nf6+ 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/youvcdzt"]
+[Date "????.??.??"]
+[Round "?"]
+[White "D31283"]
+[Black "gambitking"]
+[Result "1-0"]
+
+1. d4 e5 2. dxe5 f6 3. exf6 Nxf6 4. Nf3 d5 5. e3 Bd6 6. Be2 Nbd7 7. O-O h5
+8. Nbd2 Ne5 9. b3 Qe7 10. Bb2 Neg4 11. h3 Rh6 12. c4 Ne4 13. cxd5 Ngxf2 14.
+Rxf2 Nxf2 15. Kxf2 Rg6 16. Nc4 Bg3+ 17. Kf1 b5 18. Nce5 Rf6 19. Bxb5+ Kf8
+20. Nc6 Qxe3 21. Qe2 Qxe2+ 22. Bxe2 Rf7 23. Nb4 a5 24. Nd3 Ra6 25. Ne5 Raf6
+26. Nxf7 Rxf7 27. Kg1 Bxh3 28. gxh3 Rf5 29. Kg2 1-0
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/j9tzq2bo"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Shura"]
+[Black "gambitking"]
+[Result "1-0"]
+
+1. c4 e5 2. Nc3 f5 3. g3 Nf6 4. Bg2 Bb4 5. d3 Bxc3+ 6. bxc3 Nc6 7. Nf3 d6
+8. O-O O-O 9. Rb1 Qe8 10. a4 e4 11. Ng5 h6 12. Nh3 g5 13. f3 g4 14. Nf2 e3
+15. Nh1 Qh5 16. fxg4 fxg4 17. Bxe3 Ne5 18. Bf4 Ng6 19. Qd2 c6 20. Bxh6 Rf7
+21. Bg5 Rh7 22. Rxf6 Qxh2+ 23. Kf2 Ne5 24. Bh4 Rxh4 25. Qg5+ 1-0
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/zt3z5d56"]
+[Date "????.??.??"]
+[Round "?"]
+[White "sanuch111"]
+[Black "mikel"]
+[Result "0-1"]
+
+1. e4 e5 2. f4 d6 3. Nf3 Bg4 4. Bc4 Nf6 5. d3 Be7 6. O-O O-O 7. fxe5 dxe5
+8. Qd2 Nc6 9. a3 Bxf3 10. Rxf3 Nd4 11. Rf1 Bc5 12. Kh1 Nh5 0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/pabqtnj2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Shura"]
+[Black "Kiriush"]
+[Result "0-1"]
+
+1. c4 Nf6 2. Nc3 e6 3. g3 d5 4. cxd5 exd5 5. Bg2 c6 6. d3 Bf5 7. Nf3 Nbd7
+8. O-O Bd6 9. a3 O-O 10. Nh4 Be6 11. b4 a6 12. Rb1 Re8 13. a4 b5 14. axb5
+axb5 15. e4 d4 16. Ne2 Ba2 17. Ra1 Bxb4 18. Bg5 h6 19. Bxf6 Nxf6 20. Nf4
+Qd7 21. Qc2 Qa7 22. e5 Nd5 23. Nxd5 cxd5 24. Qb2 Rxe5 25. Qxb4 Qb8 26. Qb2
+Bc4 27. dxc4 Rxa1 28. Rxa1 dxc4 29. Qxd4 Qe8 30. Nf3 Re2 31. Rb1 Rc2 32.
+Rxb5 Qxb5 33. Qd8+ Kh7 34. h4 Rc1+ 35. Kh2 c3 36. Qd4 c2 37. Qe4+ g6 38.
+Ne5 Qb3 39. Nd3 Rd1 40. Bf3 Rxd3 41. Qxd3 Qxd3 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/iiv735yk"]
+[Date "????.??.??"]
+[Round "?"]
+[White "DzonYx"]
+[Black "lancelotukr"]
+[Result "1-0"]
+
+1. d4 d5 2. Bf4 Bf5 3. Nf3 Nf6 4. e3 e6 5. Bd3 Bg6 6. Ne5 Nbd7 7. a3 Nxe5
+8. Bxe5 Nd7 9. Bg3 Bd6 10. Nd2 Nf6 11. b4 O-O 12. O-O Re8 13. Bxg6 hxg6 14.
+c4 e5 15. c5 Be7 16. dxe5 Nh5 17. f4 Nxg3 18. hxg3 Kh7 19. Kf2 Kg8 20. Rh1
+d4 21. Ne4 dxe3+ 22. Kxe3 Qc8 23. Rh3 f5 24. Qb3+ Kf8 25. Rh8# 1-0
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/lvu5l0g7"]
+[Date "????.??.??"]
+[Round "?"]
+[White "AlwaysWinner"]
+[Black "sanuch111"]
+[Result "1/2-1/2"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 d6 6. Nc3 Nf6 7. Nd5
+Nxd5 8. Qxd5 c6 9. Qd4 Be6 10. Bc4 Bxc4 11. Qxc4 Be7 12. O-O O-O 13. Be3 a6
+14. Qb3 Bf6 15. c3 b5 16. f4 a5 17. Bd4 a4 18. Bxf6 Qxf6 19. Qb4 Rab8 20.
+Rad1 c5 21. Qa5 Rfe8 22. e5 dxe5 23. fxe5 Qxe5 24. Qa6 b4 25. cxb4 cxb4 26.
+Rfe1 Qc5+ 27. Kf1 Rxe1+ 28. Rxe1 Qf5+ 29. Kg1 Qc5+ 30. Kf1 a3 31. bxa3 bxa3
+32. Qe2 h6 33. Qe7 Qxe7 34. Rxe7 Rb2 35. Re2 f6 36. Ke1 Kf7 37. Kd1 Rxe2
+38. Kxe2 Ke6 39. Kd3 Kd5 40. Kc3 Kc5 41. Kb3 f5 42. Kxa3 Kb5 43. Kb3 f4 44.
+a4+ Ka5 45. h4 g5 46. hxg5 hxg5 47. Kc3 g4 48. Kd3 f3 49. gxf3 gxf3 50. Ke3
+Kxa4 51. Kxf3 1/2-1/2
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/j5strekp"]
+[Date "????.??.??"]
+[Round "?"]
+[White "sanuch111"]
+[Black "yeni"]
+[Result "1-0"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 e6 4. O-O Nf6 5. d3 Be7 6. a3 O-O 7. Bg5 h6 8.
+Bxf6 Bxf6 9. c3 d5 10. exd5 exd5 11. Ba2 a6 12. h3 b5 13. d4 c4 14. b3 Na5
+15. bxc4 dxc4 16. Nbd2 Bg5 17. Nxg5 Qxg5 18. Kh2 Bb7 19. Rg1 Qf4+ 20. Kh1
+Qxf2 21. a4 Nc6 22. Ne4 Qe3 23. Nd6 Rab8 24. Nxb7 Rxb7 25. Qc2 Qg5 26. Bb1
+f5 27. axb5 axb5 28. Ra6 Ne7 29. Re6 Nd5 30. Re5 Ne3 31. Qf2 Ng4 32. hxg4
+Qxg4 33. Rf1 Qh5+ 34. Kg1 Rbf7 35. Rxf5 Rxf5 36. Bxf5 Kh8 37. Qc2 Rf6 38.
+Bd7 Rxf1+ 39. Kxf1 Qh1+ 40. Kf2 Qh4+ 41. Kf3 Qf6+ 42. Qf5 Qe7 43. Bxb5 Qb7+
+44. Kg3 Qc7+ 45. Kh3 Qe7 46. Bxc4 Qe3+ 47. Qf3 Qg5 48. Qf8+ Kh7 49. Bd3+ g6
+50. Qf7+ Kh8 51. Qxg6 Qxg6 52. Bxg6 Kg7 53. Be4 1-0
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/kbyhzfyf"]
+[Date "????.??.??"]
+[Round "?"]
+[White "biohazardous"]
+[Black "acer"]
+[Result "1-0"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bb5 d6 5. d3 Nf6 6. Bg5 Be7 7. a4 O-O 8.
+Bxc6 bxc6 9. a5 Bg4 10. h3 Bh5 11. a6 Nd7 12. Bxe7 Qxe7 13. O-O Qf6 14. g4
+Bg6 15. Nd2 Qd8 16. Nc4 Nb6 17. Nxb6 Qxb6 18. b3 f6 19. h4 Bf7 20. f3 Be6
+21. Ra4 c4+ 22. Kg2 cxd3 23. cxd3 Rfb8 24. Ra3 Qc5 25. Nb1 Rb6 26. h5 Qb4
+27. Qd2 Rab8 28. Qxb4 Rxb4 29. Nd2 Bxb3 30. Rb1 Be6 31. Rxb4 Rxb4 32. Kg3
+d5 33. Rc3 Bd7 34. exd5 cxd5 35. Rc7 Bb5 36. Rxa7 Ra4 37. Ra8+ Kf7 38. a7
+Bxd3 39. Nb3 Bc4 40. Nc5 Ra3 41. Nd7 Be2 42. Rf8+ Ke6 43. Nc5+ Kd6 44. Nb7+
+Kc7 45. a8=Q Rxa8 46. Rxa8 Kxb7 47. Rg8 d4 48. Rxg7+ Kc6 49. Rxh7 d3 50.
+Rh8 d2 51. Rd8 Bd3 52. Rxd3 1-0
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/hgwork5x"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Maeglin"]
+[Black "Evgeniy_N"]
+[Result "0-1"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 Nf6 4. e5 Nfd7 5. d4 c5 6. Nb5 Nc6 7. Nd6+ Bxd6
+8. exd6 Nf6 9. Bf4 O-O 10. dxc5 Qa5+ 11. Bd2 Qxc5 12. Be2 Qxd6 13. O-O Ne4
+14. Be1 Bd7 15. Bd3 f5 16. Nd2 Qe7 17. Nxe4 fxe4 18. Be2 Ne5 19. Qd4 Ng6
+20. Bb4 Qf6 21. Qe3 Rf7 22. Bc3 Qe7 23. a3 Bc6 24. Bb4 Qd7 25. Bh5 e5 26.
+Bxg6 hxg6 27. Qg5 Qf5 28. Qg3 d4 29. c3 d3 30. Rad1 Re8 31. Qe3 Re6 32.
+Qxa7 g5 33. Qb8+ Kh7 34. Qa7 Rh6 35. Qe3 g4 36. Qg3 Rff6 37. Be7 Rfg6 38.
+c4 Rh5 39. b4 Rgh6 40. h3 gxh3 41. gxh3 Rxh3 42. Qg2 Qf4 0-1
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/2hp532gq"]
+[Date "????.??.??"]
+[Round "?"]
+[White "yeni"]
+[Black "sanuch111"]
+[Result "1-0"]
+
+1. c4 d5 2. cxd5 Qxd5 3. Nc3 Qd8 4. Nf3 Nf6 5. e4 e6 6. d4 Bb4 7. Bc4 Nc6
+8. Qd3 O-O 9. O-O h6 10. e5 Nd5 11. Bb3 Nxc3 12. bxc3 Be7 13. Bc2 g6 14.
+Bxh6 Re8 15. Qe3 Na5 16. Ng5 Nc4 17. Qg3 c5 18. Nxf7 Kxf7 19. Qxg6# 1-0
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/4t85txk2"]
+[Date "????.??.??"]
+[Round "?"]
+[White "sanuch111"]
+[Black "Anand2772"]
+[Result "0-1"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O h6 6. d4 d6 7. e5 Ne7 8.
+exd6 cxd6 9. c3 O-O 10. Nbd2 Nbc6 11. a3 Nf5 12. Ba2 Ne3 13. Qb3 a6 14. Re1
+Na5 15. Qa4 b5 16. Bxf7+ Rxf7 17. Qxa5 Qxa5 18. Rxe3 fxe3 19. Ne4 e2 20.
+Bd2 g4 21. Nxd6 gxf3 22. Nxf7 Bxd4+ 23. cxd4 Qxd2 24. Nxh6+ Kh7 25. gxf3
+Bh3 26. Ng4 e1=Q+ 27. Rxe1 Qxe1# 0-1
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/1pumw7dx"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Anand2772"]
+[Black "sanuch111"]
+[Result "1-0"]
+
+1. Nf3 d5 2. b3 Nc6 3. Bb2 e6 4. d4 Nf6 5. e3 Bb4+ 6. Nbd2 O-O 7. Bd3 a5 8.
+a3 Bd6 9. c4 dxc4 10. bxc4 b6 11. Qc2 Bb7 12. O-O g6 13. e4 Bf4 14. Rfd1
+Qd6 15. e5 Qd8 16. exf6 Bxd2 17. Qxd2 Na7 18. d5 exd5 19. Qh6 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/ubx15xkq"]
+[Date "????.??.??"]
+[Round "?"]
+[White "toma-st"]
+[Black "Naitero_Nagasaki"]
+[Result "0-1"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Bc5 4. h3 d6 5. Nf3 Be6 6. b3 c6 7. Be3 Nbd7 8.
+Ng5 Qe7 9. Nxe6 fxe6 10. Bxc5 Nxc5 11. O-O b5 12. d4 Ncxe4 13. dxe5 bxc4
+14. exf6 gxf6 15. bxc4 Rg8 16. Qf3 f5 17. Re1 Qg7 18. Nc3 Qxc3 19. Qh5+ Kd7
+20. Qxh7+ Rg7 21. Qh6 Rag8 22. g3 Rxg3+ 23. fxg3 Qxg3+ 24. Kf1 Qg2# 0-1
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/uo2ukuz5"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Naitero_Nagasaki"]
+[Black "toma-st"]
+[Result "1-0"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 Nc6 4. d5 Nb4 5. Qa4+ Bd7 6. Qxb4 e6 7. Qxc4 Rc8
+8. e4 c6 9. dxe6 Bxe6 10. Qd3 Bb4 11. Bd2 Nf6 12. Qc2 O-O 13. Bd3 Qd4 14.
+Nge2 Qe5 15. f4 Qh5 16. Ng3 Qh4 17. e5 Nd5 18. O-O Bc5+ 19. Kh1 Bd4 20. f5
+Bxe5 21. fxe6 Bxg3 22. exf7+ Rxf7 23. Bxh7+ Kh8 24. h3 Rxf1+ 25. Rxf1 Be5
+26. Nxd5 Qg3 27. Bf4 Bxf4 28. Nxf4 Rf8 29. Ng6+ Kxh7 30. Nxf8+ 1-0
+
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/d1svjz4u"]
+[Date "????.??.??"]
+[Round "?"]
+[White "toma-st"]
+[Black "Naitero_Nagasaki"]
+[Result "0-1"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. a3 d5 5. exd5 cxd5 6. Ba2 Nc6 7. h3 Bc5 8.
+Nf3 O-O 9. Nc3 d4 10. Ne2 e4 11. dxe4 Nxe4 12. O-O Be6 13. Bb1 Bc4 14. b3
+Ba6 15. Bb2 Qf6 16. Nexd4 Rad8 17. Nxc6 Qxc6 18. Qe1 Bxf1 19. Qxf1 Bxf2+
+20. Kh1 Ng3+ 0-1
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/pjluln15"]
+[Date "????.??.??"]
+[Round "?"]
+[White "jajce3"]
+[Black "sGv69"]
+[Result "0-1"]
+
+1. d4 e6 2. c4 d5 3. cxd5 exd5 4. Nc3 Nf6 5. Bg5 Be7 6. Bh4 O-O 7. a3 Nbd7
+8. b4 b6 9. Nf3 h6 10. e3 Ne4 11. Bxe7 Qxe7 12. Nxe4 dxe4 13. Nd2 f5 14.
+Bc4+ Kh8 15. O-O g5 16. Qh5 Qg7 17. f3 Nf6 18. Qh3 f4 19. Be6 exf3 20. Bxc8
+Raxc8 21. gxf3 g4 22. fxg4 Nxg4 23. exf4 Ne3+ 24. Qg3 Qxg3+ 25. hxg3 Nxf1
+26. Kxf1 Rcd8 27. Nf3 h5 28. Rd1 Rf7 29. Ne5 Rg7 30. Kf2 Rdg8 31. Rd3 h4
+32. gxh4 Rg2+ 33. Ke3 R8g3+ 34. Nf3 Rh2 35. f5 Rxh4 36. Kf2 Rhh3 37. Re3
+Kg7 38. d5 Kf6 39. a4 Kxf5 40. Nd4+ Kg4 41. Re4+ Kg5 42. Re5+ Kf4 43. Rf5+
+Ke4 44. d6 cxd6 45. Rh5 Kxd4 46. Rxh3 Rxh3 0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/6b5eftbo"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Hunab_Ku"]
+[Black "Naitero_Nagasaki"]
+[Result "1-0"]
+
+1. c4 e5 2. Nc3 d6 3. g3 f5 4. Bg2 c6 5. d3 Nf6 6. e4 Be7 7. Nge2 fxe4 8.
+dxe4 Be6 9. b3 Nbd7 10. O-O O-O 11. h3 a5 12. Be3 Re8 13. f4 Qc7 14. f5 Bf7
+15. g4 h6 16. Ng3 Kh7 17. h4 g6 18. g5 Ng8 19. fxg6+ Bxg6 20. h5 1-0
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/jz0qumdy"]
+[Date "????.??.??"]
+[Round "?"]
+[White "acer"]
+[Black "sGv69"]
+[Result "1-0"]
+
+1. e4 e6 2. c4 d5 3. cxd5 exd5 4. exd5 Qxd5 5. Nc3 Qe6+ 6. Qe2 Nf6 7. Nf3
+h6 8. Nd4 Qxe2+ 9. Bxe2 Bc5 10. Nb3 Bd6 11. O-O O-O 12. d4 Re8 13. Bc4 Nc6
+14. Be3 Ne4 15. Nb5 a6 16. Nxd6 cxd6 17. Bd5 Be6 18. Bxe4 Bxb3 19. Bxc6
+bxc6 20. axb3 Rab8 21. Rxa6 Rxb3 22. Rxc6 Reb8 23. Rxd6 Rxb2 24. h3 g5 25.
+Rxh6 Kg7 26. Bxg5 f6 27. Rxf6 R2b5 28. Bh4 Rh5 29. Bg3 Kxf6 30. Bxb8 Rd5
+31. Be5+ Kf5 1-0
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/a45apm4q"]
+[Date "????.??.??"]
+[Round "?"]
+[White "tehas23"]
+[Black "Chess_Agent"]
+[Result "0-1"]
+
+1. e4 d5 2. d4 Nf6 3. e5 Ng4 4. Be2 Nh6 5. Bxh6 e6 6. Nc3 gxh6 7. Nf3 Bg7
+8. Qd2 O-O 9. O-O-O Qe7 10. h3 Bd7 11. Kb1 c5 12. g4 cxd4 13. Nxd4 Nc6 14.
+Nxc6 Bxc6 15. f4 d4 16. Ne4 Bxe4 17. Rhf1 d3 18. Bxd3 Rad8 19. Qe3 Bxd3 20.
+Rxd3 Rxd3 21. Qxd3 Rd8 22. Qc3 Qh4 23. g5 Qxf4 24. Rxf4 Rd1# 0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/77eliurv"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Chess_Agent"]
+[Black "tehas23"]
+[Result "1-0"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 d4 4. Nb5 a6 5. Nfxd4 e5 6. Nxc7+ Qxc7 7. Nf5
+Bxf5 8. exf5 Nf6 9. Bd3 Nc6 10. O-O Bd6 11. b3 O-O 12. Bb2 Rfd8 13. Qf3 Re8
+14. Qh3 Qd7 15. c4 h6 16. Be2 Nd4 17. Bxd4 exd4 18. Bd3 Be5 19. f4 Bd6 20.
+g4 g5 21. fxg6 fxg6 22. Qxh6 Qg7 23. Qxg6 Qxg6 24. Bxg6 Re6 25. f5 Re7 26.
+Rfe1 Rxe1+ 27. Rxe1 Nxg4 28. Re4 1-0
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/sgknunjg"]
+[Date "????.??.??"]
+[Round "?"]
+[White "suq_madiq"]
+[Black "Hunab_Ku"]
+[Result "1-0"]
+
+1. e4 c6 2. f4 d5 3. d3 dxe4 4. Nc3 exd3 5. Nf3 Nf6 6. Qxd3 Qxd3 7. Bxd3
+Nbd7 8. Be3 e6 9. O-O-O Bc5 10. Bd2 O-O 11. Ng5 h6 12. Nge4 Nxe4 13. Nxe4
+Bb6 14. g4 Nc5 15. Nxc5 Bxc5 16. h4 b6 17. h5 Bb7 18. Rhf1 Be7 19. g5 Rad8
+20. gxh6 gxh6 21. f5 Bg5 22. Rg1 f6 23. fxe6 Rde8 24. Bc4 Re7 25. Kb1 Kh8
+26. Bxg5 fxg5 27. Rd7 Rxd7 28. exd7 Rd8 29. Re1 Rxd7 30. Re8+ Kg7 31. Rg8+
+Kf6 32. Rg6+ Ke5 33. a3 b5 34. Bd3 Rd6 35. Rg7 Bc8 36. Bg6 Bf5 37. Ka2 a5
+38. Re7+ Re6 39. Rxe6+ Kxe6 40. Be8 1-0
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/l3oybh95"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Josemii93"]
+[Black "acer"]
+[Result "1-0"]
+
+1. d4 c5 2. dxc5 b6 3. cxb6 Nc6 4. bxa7 Nf6 5. Nc3 e5 6. e4 Bb4 7. Bd3
+Bxc3+ 8. bxc3 Qa5 9. Bd2 Qxa7 10. Nf3 d6 11. O-O Bg4 12. h3 Bh5 13. Re1 O-O
+14. Bg5 Ne8 15. Be2 h6 16. Be3 Qc7 17. Qd2 Bg6 18. Bd3 Nf6 19. Nh2 Bxe4 20.
+f3 Bd5 21. Ng4 Nxg4 22. hxg4 Bxa2 23. Bxh6 Be6 24. Bxg7 Rxa1 25. Rxa1 Qb6+
+26. Kh2 Kxg7 27. Qg5+ 1-0
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/kesdsmno"]
+[Date "????.??.??"]
+[Round "?"]
+[White "mataLionTower"]
+[Black "flashy"]
+[Result "0-1"]
+
+1. Nf3 b6 2. d4 Bb7 3. c4 e6 4. Nc3 Bxf3 5. e4 Bh5 6. f3 Bg6 7. Be2 h5 8.
+O-O h4 9. Bd2 h3 10. g3 Bb4 11. f4 Bxc3 12. Bxc3 Qc8 13. f5 exf5 14. exf5
+Bh7 15. Bg4 f6 16. Bxh3 Ne7 17. Qh5+ Kd8 18. Qf7 d6 19. Rae1 Qd7 20. Re2
+Bxf5 21. Bxf5 Nxf5 22. Qxd7+ Kxd7 23. Rxf5 Nc6 24. d5 Ne5 25. Bxe5 dxe5 26.
+b3 Rhg8 27. Kg2 Kd6 28. b4 a6 29. a3 Rab8 30. h3 Rh8 31. h4 Rhg8 32. g4 b5
+33. Rc2 bxc4 34. Rxc4 Rb5 35. Rc6+ Kxd5 36. Rxc7 a5 37. bxa5 Rxa5 38. Rd7+
+Ke4 39. Rf3 Ra4 40. Rb3 Rc8 41. Rdb7 Rc2+ 42. Kh3 Ra2 43. Rxg7 R2xa3 44.
+Rxa3 Rxa3+ 45. Kg2 Kd5 46. Kf1 Ke6 47. Rf7 Ra1+ 48. Kf2 Ra2+ 49. Kg3 Ra3+
+50. Kf2 Ra4 51. Ke2 Rxg4 52. Rxf6+ 0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/altbu5ol"]
+[Date "????.??.??"]
+[Round "?"]
+[White "flashy"]
+[Black "mataLionTower"]
+[Result "0-1"]
+
+1. g3 c5 2. Bg2 d6 3. d3 e6 4. Bd2 d5 5. e3 Bd6 6. Qe2 Nc6 7. f3 Nf6 8. Qf2
+O-O 9. Ne2 d4 10. e4 e5 11. Bg5 h6 12. Bxf6 Qxf6 13. g4 Be6 14. Nd2 b5 15.
+h4 c4 16. g5 hxg5 17. hxg5 Qxg5 18. dxc4 bxc4 19. Bh3 Bxh3 20. Rxh3 d3 21.
+Rg3 Qh4 22. Ng1 dxc2 23. Rc1 Nd4 24. Nxc4 Bc7 25. b3 Rac8 26. Ne2 Nxe2 27.
+Kxe2 Bb6 28. Qg2 g6 29. Rh3 Qf4 30. Rh5 Qxc1 31. Rxe5 Qe3+ 32. Nxe3 Bxe3
+33. Kxe3 c1=Q+ 34. Kd4 Rc2 35. Qg5 Qd1+ 36. Ke3 Re2+ 37. Kf4 Qc2 38. Qh6
+Qd2+ 39. Kg3 Qxh6 40. f4 Qh5 0-1
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/sgv6hw45"]
+[Date "????.??.??"]
+[Round "?"]
+[White "ecyranot"]
+[Black "NOCKA"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nc6 4. e3 Bf5 5. Bd3 Qd7 6. Bxf5 Qxf5 7. Nf3 Ne4
+8. Nd5 O-O-O 9. Qa4 g5 10. Nb4 Nxb4 11. Qxb4 g4 12. O-O gxf3 0-1
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/haststos"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Melinda"]
+[Black "NOCKA"]
+[Result "1-0"]
+
+1. e4 Nc6 2. f4 d6 3. f5 g6 4. d3 gxf5 5. Nc3 fxe4 6. Nxe4 Bf5 7. Qf3 Bg6
+8. Ng5 Nd4 9. Qf2 Bg7 10. c3 Nc6 11. N1f3 Qd7 12. Bd2 Nf6 13. O-O-O O-O-O
+14. Nh4 Rdf8 15. Nxg6 fxg6 16. Qe2 h6 17. Ne6 Rf7 18. g3 Ne5 19. Bh3 Kb8
+20. d4 Qa4 21. dxe5 dxe5 22. Qxe5 Qxa2 23. Qxc7+ Ka8 24. Nd8 Qa1+ 25. Kc2
+Qa4+ 26. Kb1 Qe4+ 27. Kc1 a6 28. Rhe1 Qd5 29. Qc8+ Ka7 30. Be3+ b6 31. Rxd5
+1-0
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/6gy8jpj8"]
+[Date "????.??.??"]
+[Round "?"]
+[White "mataLionTower"]
+[Black "tehas23"]
+[Result "0-1"]
+
+1. Nf3 e6 2. d4 d5 3. c4 Nf6 4. Nc3 dxc4 5. e3 g6 6. Bxc4 Bg7 7. Kf1 O-O 8.
+b4 a6 9. Ba3 b5 10. Bd3 Nc6 11. Qc2 Re8 12. e4 e5 13. d5 Ne7 14. Ng5 c6 15.
+Rd1 cxd5 16. exd5 Nexd5 17. Nxd5 Nxd5 18. Be4 Be6 19. Nxe6 fxe6 20. Qc6 Qf6
+21. Bxd5 exd5 22. Qxd5+ Kh8 23. Bb2 Red8 24. Qb3 Rxd1+ 25. Qxd1 Rd8 26. Qe2
+Qc6 27. g3 Qxh1# 0-1
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/g8isp5fb"]
+[Date "????.??.??"]
+[Round "?"]
+[White "tehas23"]
+[Black "mataLionTower"]
+[Result "1-0"]
+
+1. e4 c6 2. d4 g6 3. Nc3 e6 4. Be3 Bg7 5. Nf3 d6 6. Qd2 Nd7 7. Bd3 f6 8.
+O-O-O Ne7 9. h4 c5 10. h5 g5 11. h6 Bf8 12. Nh2 Ng6 13. f4 cxd4 14. Bxd4 e5
+15. fxe5 fxe5 16. Be3 Be7 17. Nf3 Nf4 18. g3 Nxd3+ 19. cxd3 g4 20. Nh4 Bxh4
+21. gxh4 Nf8 22. Nd5 Ng6 23. Bg5 Qd7 24. Nf6+ Kf7 25. Nxd7 Bxd7 26. Rhf1+
+Ke6 27. Rf6+ Ke7 28. Rxg6+ Kf8 29. Rf6+ Ke8 30. Rdf1 Bc6 31. Rxd6 Rf8 32.
+Rxf8+ Kxf8 33. Qf2+ Ke8 34. Qf6 Rd8 35. Qe7# 1-0
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/dh483bmy"]
+[Date "????.??.??"]
+[Round "?"]
+[White "apolo"]
+[Black "NOCKA"]
+[Result "1-0"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Nc6 4. Qc2 Nxd4 5. Qb1 Bb4 6. e3 Nc6 7. Bd3 d5 8.
+Ne2 d4 9. exd4 Nxd4 10. O-O O-O 11. Rd1 Qe7 12. Nxd4 c5 13. Nf3 b6 14. Bg5
+h6 15. Bh4 g5 16. Nxg5 hxg5 17. Bxg5 Kg7 18. Qc2 Qd6 19. Qe2 Bxc3 20. bxc3
+Qc6 21. Bxf6+ Kxf6 22. Be4 Qa4 23. Bxa8 Ba6 24. Qf3+ Ke7 25. Bc6 Qxc4 26.
+Rd7+ Ke8 27. Rd4+ 1-0
+
+[Event "Rated Bullet game"]
+[Site "https://lichess.org/v1pine4m"]
+[Date "????.??.??"]
+[Round "?"]
+[White "tehas23"]
+[Black "rapitrance"]
+[Result "1-0"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 g6 4. Nc3 Bg7 5. Be3 Nf6 6. Qd2 O-O 7. O-O-O e6
+8. f3 d5 9. e5 Nfd7 10. Bh6 Nc6 11. Bxg7 Kxg7 12. h4 h5 13. g4 hxg4 14.
+fxg4 Nb4 15. h5 Nxd3+ 16. Qxd3 f5 17. hxg6 Kxg6 18. Qd2 Rh8 19. Nf3 Qe7 20.
+gxf5+ exf5 21. Rdg1+ Kf7 22. Rh2 Rxh2 23. Qxh2 Rg8 24. Qh7+ Kf8 25. Qxe7+
+Kxe7 26. Rxg8 1-0
+

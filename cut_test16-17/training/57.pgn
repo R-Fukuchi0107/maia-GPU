@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "https://lichess.org/x5ai6w61"]
+[Date "????.??.??"]
+[Round "?"]
+[White "minya1961"]
+[Black "Tsoomoo"]
+[Result "1-0"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 d6 6. Nf3 Nc6 7. O-O Bg4
+8. Qb3 Bc8 9. Bxf7+ Ke7 10. Bxg8 Na5 11. Qf7# 1-0
+
+[Event "Rated Classical game"]
+[Site "https://lichess.org/4698rvsh"]
+[Date "????.??.??"]
+[Round "?"]
+[White "dato_123"]
+[Black "Enderbean"]
+[Result "1-0"]
+
+1. e4 c5 2. Bc4 e6 3. a3 Qc7 4. Nh3 Nf6 5. d3 h6 6. Bf4 Qc6 7. Nc3 a6 8.
+O-O d6 9. Rb1 Nbd7 10. b4 b5 11. Ba2 Ne5 12. Bxe5 dxe5 13. f3 Bb7 14. Ne2
+Rd8 15. bxc5 Bxc5+ 16. Kh1 O-O 17. Qd2 Nd7 18. Ng3 Kh7 19. f4 exf4 20. Qxf4
+f5 21. Nh5 fxe4 22. Qg4 Rg8 23. Rf7 Bd4 24. Bxe6 exd3 25. cxd3 Be5 26. Bxd7
+Rxd7 27. Rxd7 Bc8 28. Qf5+ Kh8 29. Qxe5 Bxd7 30. N3f4 Bc8 31. Qe4 Qc2 32.
+Re1 g5 33. Ng6+ Rxg6 34. Qxg6 1-0
+
